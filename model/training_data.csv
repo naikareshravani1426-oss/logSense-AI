@@ -1,0 +1,976 @@
+text,label
+SpO2 99% oxygen saturation BP 129/76 heart rate 138 bpm patient monitoring,medical
+CPU 63% memory 85% HTTP 500 errors 332 server issue detected,it
+SpO2 83% oxygen saturation BP 118/60 heart rate 87 bpm patient monitoring,medical
+motor temperature 76C vibration 4.2mm/s RPM 1245 bearing fault detected,machine
+SpO2 81% oxygen saturation BP 94/74 heart rate 117 bpm patient monitoring,medical
+CPU 96% memory 86% HTTP 500 errors 11 server issue detected,it
+compressor overload current spike detected,machine
+motor temperature 89C vibration 1.4mm/s RPM 1412 bearing fault detected,machine
+CPU 87% memory 69% HTTP 500 errors 815 server issue detected,it
+SpO2 79% oxygen saturation BP 89/54 heart rate 109 bpm patient monitoring,medical
+CPU 64% memory 96% HTTP 500 errors 589 server issue detected,it
+SpO2 79% oxygen saturation BP 124/51 heart rate 95 bpm patient monitoring,medical
+motor temperature 81C vibration 9.9mm/s RPM 2372 bearing fault detected,machine
+SpO2 87% oxygen saturation BP 127/68 heart rate 98 bpm patient monitoring,medical
+motor temperature 92C vibration 8.0mm/s RPM 2086 bearing fault detected,machine
+CPU 91% memory 92% HTTP 500 errors 390 server issue detected,it
+SpO2 84% oxygen saturation BP 97/43 heart rate 134 bpm patient monitoring,medical
+motor temperature 67C vibration 1.5mm/s RPM 1859 bearing fault detected,machine
+CPU 100% memory 83% HTTP 500 errors 326 server issue detected,it
+SpO2 94% oxygen saturation BP 78/55 heart rate 140 bpm patient monitoring,medical
+SpO2 75% oxygen saturation BP 128/79 heart rate 132 bpm patient monitoring,medical
+SpO2 79% oxygen saturation BP 104/58 heart rate 137 bpm patient monitoring,medical
+compressor discharge temperature above safe range,machine
+blood pressure 70/40 septic shock suspected critical condition,medical
+motor temperature 64C vibration 2.0mm/s RPM 1174 bearing fault detected,machine
+motor temperature 82C vibration 7.8mm/s RPM 1890 bearing fault detected,machine
+motor temperature 93C vibration 6.5mm/s RPM 1558 bearing fault detected,machine
+CPU 50% memory 97% HTTP 500 errors 345 server issue detected,it
+motor temperature 89C vibration 5.4mm/s RPM 2494 bearing fault detected,machine
+SpO2 90% oxygen saturation BP 74/48 heart rate 124 bpm patient monitoring,medical
+SpO2 82% oxygen saturation BP 111/89 heart rate 67 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 121/63 heart rate 88 bpm patient monitoring,medical
+motor temperature 60C vibration 6.5mm/s RPM 1881 bearing fault detected,machine
+SpO2 80% oxygen saturation BP 109/78 heart rate 132 bpm patient monitoring,medical
+CPU 96% memory 93% HTTP 500 errors 658 server issue detected,it
+motor temperature 75C vibration 8.8mm/s RPM 1899 bearing fault detected,machine
+docker container restarted unexpectedly,it
+CPU 79% memory 97% HTTP 500 errors 620 server issue detected,it
+motor temperature 67C vibration 4.1mm/s RPM 2562 bearing fault detected,machine
+motor temperature 98C vibration 4.4mm/s RPM 1212 bearing fault detected,machine
+SpO2 84% oxygen saturation BP 115/63 heart rate 115 bpm patient monitoring,medical
+SpO2 75% oxygen saturation BP 75/60 heart rate 67 bpm patient monitoring,medical
+SpO2 81% oxygen saturation BP 135/87 heart rate 77 bpm patient monitoring,medical
+SpO2 83% oxygen saturation BP 109/56 heart rate 89 bpm patient monitoring,medical
+conveyor motor stalled emergency stop activated,machine
+CPU 93% memory 65% HTTP 500 errors 32 server issue detected,it
+motor temperature 95C vibration 7.2mm/s RPM 2372 bearing fault detected,machine
+SpO2 78% oxygen saturation BP 103/51 heart rate 134 bpm patient monitoring,medical
+motor temperature 90C vibration 1.5mm/s RPM 1792 bearing fault detected,machine
+CPU 83% memory 68% HTTP 500 errors 866 server issue detected,it
+CPU 64% memory 76% HTTP 500 errors 307 server issue detected,it
+motor temperature 82C vibration 7.0mm/s RPM 2666 bearing fault detected,machine
+SpO2 88% oxygen saturation BP 90/69 heart rate 60 bpm patient monitoring,medical
+CPU 92% memory 80% HTTP 500 errors 538 server issue detected,it
+blood sugar 420 diabetic ketoacidosis emergency,medical
+patient cyanosis low oxygen severe breathing difficulty,medical
+glucose 35 mg/dL patient unresponsive hypoglycemia,medical
+SpO2 83% oxygen saturation BP 132/53 heart rate 129 bpm patient monitoring,medical
+motor temperature 109C vibration 6.3mm/s RPM 1463 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 130/90 heart rate 93 bpm patient monitoring,medical
+SpO2 85% oxygen saturation BP 134/57 heart rate 60 bpm patient monitoring,medical
+SpO2 97% oxygen saturation BP 101/59 heart rate 134 bpm patient monitoring,medical
+CPU 53% memory 57% HTTP 500 errors 530 server issue detected,it
+CPU 52% memory 75% HTTP 500 errors 449 server issue detected,it
+motor temperature 96C vibration 5.6mm/s RPM 2360 bearing fault detected,machine
+CPU 97% memory 87% HTTP 500 errors 245 server issue detected,it
+motor temperature 99C vibration 1.5mm/s RPM 2604 bearing fault detected,machine
+SpO2 75% oxygen saturation BP 81/88 heart rate 90 bpm patient monitoring,medical
+SpO2 89% oxygen saturation BP 97/72 heart rate 120 bpm patient monitoring,medical
+SSL certificate expired authentication failures login blocked,it
+motor temperature 93C vibration 1.4mm/s RPM 1689 bearing fault detected,machine
+CPU 99% memory 86% HTTP 500 errors 426 server issue detected,it
+gearbox vibration abnormal maintenance required,machine
+motor temperature 60C vibration 7.8mm/s RPM 1492 bearing fault detected,machine
+motor temperature 84C vibration 7.8mm/s RPM 1493 bearing fault detected,machine
+SpO2 88% oxygen saturation BP 129/86 heart rate 66 bpm patient monitoring,medical
+CPU 65% memory 66% HTTP 500 errors 208 server issue detected,it
+CPU 50% memory 97% HTTP 500 errors 223 server issue detected,it
+CPU 73% memory 73% HTTP 500 errors 454 server issue detected,it
+SpO2 78% oxygen saturation BP 94/58 heart rate 89 bpm patient monitoring,medical
+motor temperature 79C vibration 9.2mm/s RPM 1453 bearing fault detected,machine
+motor temperature 88C vibration 1.4mm/s RPM 1747 bearing fault detected,machine
+conveyor belt stopped motor fault pressure valve failure emergency stop,machine
+motor temperature 85C vibration 6.8mm/s RPM 1810 bearing fault detected,machine
+CPU 85% memory 94% HTTP 500 errors 278 server issue detected,it
+motor temperature 63C vibration 1.1mm/s RPM 1617 bearing fault detected,machine
+CPU 69% memory 60% HTTP 500 errors 728 server issue detected,it
+CPU 76% memory 73% HTTP 500 errors 912 server issue detected,it
+SpO2 87% oxygen saturation BP 86/82 heart rate 98 bpm patient monitoring,medical
+motor temperature 107C vibration 5.6mm/s RPM 1232 bearing fault detected,machine
+motor temperature 102C vibration 11.6mm/s RPM 2234 bearing fault detected,machine
+motor temperature 94C vibration 2.7mm/s RPM 1904 bearing fault detected,machine
+SpO2 86% oxygen saturation BP 96/83 heart rate 91 bpm patient monitoring,medical
+web server healthy response time within limits,it
+SpO2 77% oxygen saturation BP 110/56 heart rate 101 bpm patient monitoring,medical
+CPU 69% memory 64% HTTP 500 errors 964 server issue detected,it
+motor temperature 101C vibration 1.4mm/s RPM 2615 bearing fault detected,machine
+persistent fever 105F infection not responding treatment,medical
+motor temperature 105C vibration 11.3mm/s RPM 1634 bearing fault detected,machine
+CPU 92% memory 76% HTTP 500 errors 629 server issue detected,it
+motor temperature 63C vibration 1.8mm/s RPM 2305 bearing fault detected,machine
+motor temperature 67C vibration 6.2mm/s RPM 1154 bearing fault detected,machine
+motor temperature 68C vibration 2.7mm/s RPM 1605 bearing fault detected,machine
+CPU 99% memory 55% HTTP 500 errors 667 server issue detected,it
+motor temperature 66C vibration 3.7mm/s RPM 2206 bearing fault detected,machine
+redis cache unavailable fallback mode activated,it
+SpO2 75% oxygen saturation BP 140/54 heart rate 135 bpm patient monitoring,medical
+SpO2 99% oxygen saturation BP 76/53 heart rate 94 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 82/88 heart rate 72 bpm patient monitoring,medical
+CPU 76% memory 94% HTTP 500 errors 208 server issue detected,it
+SpO2 81% oxygen saturation BP 121/43 heart rate 81 bpm patient monitoring,medical
+SpO2 75% oxygen saturation BP 122/68 heart rate 136 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 137/40 heart rate 136 bpm patient monitoring,medical
+motor temperature 83C vibration 1.7mm/s RPM 2077 bearing fault detected,machine
+SpO2 86% oxygen saturation BP 130/75 heart rate 127 bpm patient monitoring,medical
+motor temperature 106C vibration 5.7mm/s RPM 1881 bearing fault detected,machine
+motor temperature 96C vibration 8.1mm/s RPM 2279 bearing fault detected,machine
+CPU 69% memory 96% HTTP 500 errors 22 server issue detected,it
+motor temperature 74C vibration 5.6mm/s RPM 2694 bearing fault detected,machine
+motor temperature 85C vibration 1.2mm/s RPM 1665 bearing fault detected,machine
+SpO2 85% oxygen saturation BP 138/64 heart rate 100 bpm patient monitoring,medical
+CPU 64% memory 64% HTTP 500 errors 980 server issue detected,it
+CPU 74% memory 85% HTTP 500 errors 120 server issue detected,it
+motor temperature 89C vibration 10.9mm/s RPM 2387 bearing fault detected,machine
+database connection pool exhausted max connections reached,it
+gearbox oil pressure low lubrication failure risk detected,machine
+stroke symptoms facial droop slurred speech detected,medical
+motor temperature 70C vibration 8.9mm/s RPM 1089 bearing fault detected,machine
+CPU 60% memory 92% HTTP 500 errors 639 server issue detected,it
+SpO2 83% oxygen saturation BP 93/77 heart rate 115 bpm patient monitoring,medical
+CPU 99% memory 51% HTTP 500 errors 246 server issue detected,it
+motor temperature 103C vibration 9.0mm/s RPM 1813 bearing fault detected,machine
+SpO2 92% oxygen saturation BP 131/62 heart rate 102 bpm patient monitoring,medical
+SpO2 79% oxygen saturation BP 130/55 heart rate 120 bpm patient monitoring,medical
+motor temperature 109C vibration 5.2mm/s RPM 2080 bearing fault detected,machine
+motor temperature 83C vibration 2.3mm/s RPM 1570 bearing fault detected,machine
+motor temperature 94C vibration 2.5mm/s RPM 1929 bearing fault detected,machine
+SpO2 85% oxygen saturation BP 81/88 heart rate 90 bpm patient monitoring,medical
+motor temperature 91C vibration 7.6mm/s RPM 1033 bearing fault detected,machine
+motor temperature 83C vibration 5.8mm/s RPM 1819 bearing fault detected,machine
+SpO2 92% oxygen saturation BP 139/64 heart rate 118 bpm patient monitoring,medical
+load balancer health checks failing repeatedly,it
+CPU 98% memory 73% HTTP 500 errors 527 server issue detected,it
+CPU 85% memory 60% HTTP 500 errors 416 server issue detected,it
+SpO2 80% oxygen saturation BP 122/41 heart rate 82 bpm patient monitoring,medical
+motor temperature 66C vibration 4.9mm/s RPM 2139 bearing fault detected,machine
+service unavailable dependency endpoint not responding,it
+respiratory failure mechanical ventilation recommended,medical
+motor temperature 83C vibration 1.2mm/s RPM 1632 bearing fault detected,machine
+motor temperature 77C vibration 3.1mm/s RPM 1250 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 105/68 heart rate 91 bpm patient monitoring,medical
+CPU 59% memory 88% HTTP 500 errors 914 server issue detected,it
+CPU 84% memory 75% HTTP 500 errors 541 server issue detected,it
+CPU 96% memory 88% HTTP 500 errors 345 server issue detected,it
+motor temperature 71C vibration 3.2mm/s RPM 2610 bearing fault detected,machine
+motor temperature 95C vibration 11.7mm/s RPM 2676 bearing fault detected,machine
+SpO2 98% oxygen saturation BP 91/82 heart rate 70 bpm patient monitoring,medical
+motor temperature 82C vibration 11.9mm/s RPM 1612 bearing fault detected,machine
+CPU 77% memory 82% HTTP 500 errors 335 server issue detected,it
+SpO2 80% oxygen saturation BP 84/89 heart rate 80 bpm patient monitoring,medical
+CPU 60% memory 70% HTTP 500 errors 956 server issue detected,it
+CPU 93% memory 84% HTTP 500 errors 388 server issue detected,it
+motor temperature 104C vibration 9.5mm/s RPM 2656 bearing fault detected,machine
+SpO2 90% oxygen saturation BP 73/64 heart rate 103 bpm patient monitoring,medical
+motor temperature 78C vibration 9.3mm/s RPM 2605 bearing fault detected,machine
+CPU 72% memory 75% HTTP 500 errors 133 server issue detected,it
+motor temperature 70C vibration 2.9mm/s RPM 2248 bearing fault detected,machine
+SpO2 76% oxygen saturation BP 76/77 heart rate 121 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 103/87 heart rate 134 bpm patient monitoring,medical
+SpO2 78% oxygen saturation BP 121/72 heart rate 60 bpm patient monitoring,medical
+CPU 67% memory 89% HTTP 500 errors 696 server issue detected,it
+backup process failed insufficient storage space,it
+CPU 98% memory 54% HTTP 500 errors 587 server issue detected,it
+SpO2 84% oxygen saturation BP 119/66 heart rate 128 bpm patient monitoring,medical
+motor temperature 79C vibration 11.6mm/s RPM 2606 bearing fault detected,machine
+motor temperature 67C vibration 5.5mm/s RPM 2789 bearing fault detected,machine
+SpO2 98% oxygen saturation BP 113/46 heart rate 91 bpm patient monitoring,medical
+SpO2 79% oxygen saturation BP 73/42 heart rate 91 bpm patient monitoring,medical
+motor temperature 90C vibration 10.3mm/s RPM 1873 bearing fault detected,machine
+CPU 69% memory 99% HTTP 500 errors 295 server issue detected,it
+CPU 51% memory 55% HTTP 500 errors 46 server issue detected,it
+CPU 73% memory 98% HTTP 500 errors 147 server issue detected,it
+motor temperature 93C vibration 6.8mm/s RPM 1325 bearing fault detected,machine
+CPU 94% memory 76% HTTP 500 errors 418 server issue detected,it
+motor temperature 69C vibration 11.9mm/s RPM 2106 bearing fault detected,machine
+motor temperature 110C vibration 9.1mm/s RPM 1084 bearing fault detected,machine
+CPU 57% memory 51% HTTP 500 errors 753 server issue detected,it
+SpO2 79% oxygen saturation BP 130/75 heart rate 81 bpm patient monitoring,medical
+CPU 93% memory 75% HTTP 500 errors 304 server issue detected,it
+motor temperature 69C vibration 9.3mm/s RPM 1462 bearing fault detected,machine
+CPU 78% memory 79% HTTP 500 errors 696 server issue detected,it
+coolant flow lost engine overheating shutdown triggered,machine
+CPU 86% memory 84% HTTP 500 errors 153 server issue detected,it
+motor temperature 69C vibration 4.7mm/s RPM 2193 bearing fault detected,machine
+motor temperature 104C vibration 10.1mm/s RPM 2513 bearing fault detected,machine
+kernel out of memory killer terminated process,it
+CPU 65% memory 100% HTTP 500 errors 505 server issue detected,it
+CPU 77% memory 72% HTTP 500 errors 717 server issue detected,it
+SpO2 95% oxygen saturation BP 90/90 heart rate 114 bpm patient monitoring,medical
+SpO2 79% oxygen saturation BP 135/71 heart rate 71 bpm patient monitoring,medical
+CPU 68% memory 74% HTTP 500 errors 884 server issue detected,it
+SpO2 90% oxygen saturation BP 83/67 heart rate 106 bpm patient monitoring,medical
+blood pressure 190/120 hypertensive crisis emergency,medical
+motor temperature 92C vibration 3.1mm/s RPM 2589 bearing fault detected,machine
+SpO2 83% oxygen saturation BP 80/50 heart rate 90 bpm patient monitoring,medical
+patient unconscious oxygen level 82% emergency ventilation required,medical
+motor temperature 92C vibration 2.6mm/s RPM 1895 bearing fault detected,machine
+motor temperature 68C vibration 1.7mm/s RPM 2589 bearing fault detected,machine
+SpO2 88% oxygen saturation BP 89/55 heart rate 80 bpm patient monitoring,medical
+motor temperature 86C vibration 5.0mm/s RPM 2473 bearing fault detected,machine
+SpO2 98% oxygen saturation BP 139/43 heart rate 100 bpm patient monitoring,medical
+CPU 98% memory 99% HTTP 500 errors 57 server issue detected,it
+CPU 86% memory 57% HTTP 500 errors 63 server issue detected,it
+SpO2 87% oxygen saturation BP 85/76 heart rate 91 bpm patient monitoring,medical
+SpO2 98% oxygen saturation BP 138/88 heart rate 83 bpm patient monitoring,medical
+gear wear detected abnormal acoustic signature,machine
+motor temperature 96C vibration 10.5mm/s RPM 2593 bearing fault detected,machine
+CPU 69% memory 87% HTTP 500 errors 344 server issue detected,it
+CPU 78% memory 91% HTTP 500 errors 262 server issue detected,it
+motor temperature 90C vibration 1.3mm/s RPM 2810 bearing fault detected,machine
+SpO2 96% oxygen saturation BP 139/45 heart rate 135 bpm patient monitoring,medical
+SpO2 95% oxygen saturation BP 103/50 heart rate 116 bpm patient monitoring,medical
+motor temperature 85C vibration 1.2mm/s RPM 2098 bearing fault detected,machine
+motor temperature 81C vibration 2.7mm/s RPM 1638 bearing fault detected,machine
+SpO2 99% oxygen saturation BP 140/42 heart rate 118 bpm patient monitoring,medical
+SpO2 77% oxygen saturation BP 107/54 heart rate 111 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 86/58 heart rate 116 bpm patient monitoring,medical
+SpO2 75% oxygen saturation BP 95/85 heart rate 129 bpm patient monitoring,medical
+SpO2 82% oxygen saturation BP 98/44 heart rate 103 bpm patient monitoring,medical
+CPU 84% memory 68% HTTP 500 errors 912 server issue detected,it
+CPU 90% memory 75% HTTP 500 errors 846 server issue detected,it
+CPU 56% memory 61% HTTP 500 errors 143 server issue detected,it
+CPU 81% memory 90% HTTP 500 errors 558 server issue detected,it
+SpO2 81% oxygen saturation BP 113/53 heart rate 93 bpm patient monitoring,medical
+motor temperature 75C vibration 9.1mm/s RPM 2286 bearing fault detected,machine
+SpO2 91% oxygen saturation BP 94/45 heart rate 90 bpm patient monitoring,medical
+motor temperature 110C vibration 4.0mm/s RPM 1115 bearing fault detected,machine
+motor temperature 85C vibration 5.0mm/s RPM 2640 bearing fault detected,machine
+CPU 77% memory 85% HTTP 500 errors 507 server issue detected,it
+CPU 55% memory 75% HTTP 500 errors 685 server issue detected,it
+motor temperature 102C vibration 5.3mm/s RPM 2218 bearing fault detected,machine
+CPU 100% memory 68% HTTP 500 errors 581 server issue detected,it
+SpO2 83% oxygen saturation BP 78/53 heart rate 132 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 136/60 heart rate 93 bpm patient monitoring,medical
+SpO2 78% oxygen saturation BP 81/64 heart rate 72 bpm patient monitoring,medical
+motor temperature 66C vibration 4.4mm/s RPM 1640 bearing fault detected,machine
+CPU 95% memory 71% HTTP 500 errors 823 server issue detected,it
+motor temperature 63C vibration 2.7mm/s RPM 2545 bearing fault detected,machine
+motor temperature 90C vibration 11.6mm/s RPM 1604 bearing fault detected,machine
+motor temperature 78C vibration 8.5mm/s RPM 2214 bearing fault detected,machine
+motor temperature 103C vibration 11.0mm/s RPM 1191 bearing fault detected,machine
+CPU 88% memory 52% HTTP 500 errors 457 server issue detected,it
+SpO2 83% oxygen saturation BP 134/74 heart rate 123 bpm patient monitoring,medical
+SpO2 99% oxygen saturation BP 105/62 heart rate 125 bpm patient monitoring,medical
+motor temperature 98C vibration 9.2mm/s RPM 2705 bearing fault detected,machine
+motor temperature 95C vibration 4.6mm/s RPM 2249 bearing fault detected,machine
+SpO2 75% oxygen saturation BP 81/54 heart rate 133 bpm patient monitoring,medical
+CPU 97% memory 96% HTTP 500 errors 870 server issue detected,it
+motor temperature 82C vibration 6.6mm/s RPM 1635 bearing fault detected,machine
+SpO2 99% oxygen saturation BP 131/69 heart rate 115 bpm patient monitoring,medical
+motor temperature 82C vibration 9.7mm/s RPM 1706 bearing fault detected,machine
+SpO2 94% oxygen saturation BP 78/83 heart rate 90 bpm patient monitoring,medical
+motor temperature 107C vibration 1.7mm/s RPM 1918 bearing fault detected,machine
+motor temperature 82C vibration 1.1mm/s RPM 2781 bearing fault detected,machine
+motor temperature 82C vibration 10.5mm/s RPM 1097 bearing fault detected,machine
+SpO2 84% oxygen saturation BP 106/84 heart rate 118 bpm patient monitoring,medical
+CPU 62% memory 96% HTTP 500 errors 783 server issue detected,it
+SpO2 86% oxygen saturation BP 124/87 heart rate 130 bpm patient monitoring,medical
+message queue backlog increasing consumer lag detected,it
+CPU 75% memory 82% HTTP 500 errors 41 server issue detected,it
+motor temperature 73C vibration 5.7mm/s RPM 2818 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 76/49 heart rate 79 bpm patient monitoring,medical
+CPU 61% memory 97% HTTP 500 errors 985 server issue detected,it
+sepsis markers elevated infection spreading rapidly,medical
+CPU 83% memory 90% HTTP 500 errors 738 server issue detected,it
+motor temperature 94C vibration 6.6mm/s RPM 2039 bearing fault detected,machine
+CPU 93% memory 63% HTTP 500 errors 734 server issue detected,it
+CPU 61% memory 89% HTTP 500 errors 876 server issue detected,it
+motor temperature 71C vibration 7.6mm/s RPM 2556 bearing fault detected,machine
+CPU 86% memory 73% HTTP 500 errors 478 server issue detected,it
+motor temperature 98C vibration 9.8mm/s RPM 1448 bearing fault detected,machine
+SpO2 83% oxygen saturation BP 70/88 heart rate 80 bpm patient monitoring,medical
+SpO2 90% oxygen saturation BP 100/57 heart rate 116 bpm patient monitoring,medical
+motor temperature 95C vibration 5.1mm/s RPM 2621 bearing fault detected,machine
+CPU 71% memory 91% HTTP 500 errors 80 server issue detected,it
+CPU 74% memory 78% HTTP 500 errors 890 server issue detected,it
+compressor pressure safety valve opened emergency stop activated,machine
+CPU 80% memory 83% HTTP 500 errors 467 server issue detected,it
+motor temperature 86C vibration 11.6mm/s RPM 2672 bearing fault detected,machine
+CPU 84% memory 74% HTTP 500 errors 843 server issue detected,it
+CPU 93% memory 82% HTTP 500 errors 945 server issue detected,it
+CPU 96% memory 84% HTTP 500 errors 434 server issue detected,it
+pump cavitation detected flow instability increasing,machine
+motor temperature 84C vibration 5.5mm/s RPM 1692 bearing fault detected,machine
+motor temperature 69C vibration 2.5mm/s RPM 1587 bearing fault detected,machine
+server down connection timeout database unreachable 503 error,it
+CPU 73% memory 74% HTTP 500 errors 972 server issue detected,it
+database deadlock causing transaction failures,it
+SpO2 93% oxygen saturation BP 108/45 heart rate 91 bpm patient monitoring,medical
+motor temperature 89C vibration 3.8mm/s RPM 1019 bearing fault detected,machine
+CPU 89% memory 90% HTTP 500 errors 31 server issue detected,it
+SpO2 85% oxygen saturation BP 115/84 heart rate 118 bpm patient monitoring,medical
+SpO2 91% oxygen saturation BP 137/50 heart rate 67 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 101/47 heart rate 118 bpm patient monitoring,medical
+temperature 104F sepsis suspected white blood cell count high,medical
+heart rate 180 bpm ventricular tachycardia detected,medical
+motor temperature 70C vibration 9.8mm/s RPM 2265 bearing fault detected,machine
+CPU 95% memory 64% HTTP 500 errors 354 server issue detected,it
+motor temperature 99C vibration 1.5mm/s RPM 1167 bearing fault detected,machine
+CPU 100% memory 71% HTTP 500 errors 571 server issue detected,it
+SpO2 94% oxygen saturation BP 108/65 heart rate 130 bpm patient monitoring,medical
+motor temperature 110C vibration 2.1mm/s RPM 2578 bearing fault detected,machine
+oxygen saturation 78% respiratory distress immediate intervention,medical
+CPU 96% memory 79% HTTP 500 errors 663 server issue detected,it
+CPU 86% memory 94% HTTP 500 errors 112 server issue detected,it
+SpO2 95% oxygen saturation BP 84/41 heart rate 95 bpm patient monitoring,medical
+CPU 83% memory 72% HTTP 500 errors 131 server issue detected,it
+motor temperature 71C vibration 11.5mm/s RPM 1699 bearing fault detected,machine
+neurological deficit possible stroke urgent imaging required,medical
+motor temperature 100C vibration 8.1mm/s RPM 1134 bearing fault detected,machine
+motor temperature 69C vibration 7.2mm/s RPM 1820 bearing fault detected,machine
+motor temperature 100C vibration 2.1mm/s RPM 2285 bearing fault detected,machine
+SpO2 96% oxygen saturation BP 73/45 heart rate 114 bpm patient monitoring,medical
+SpO2 97% oxygen saturation BP 125/40 heart rate 126 bpm patient monitoring,medical
+motor temperature 97C vibration 9.2mm/s RPM 1316 bearing fault detected,machine
+motor temperature 108C vibration 7.1mm/s RPM 2200 bearing fault detected,machine
+CPU 85% memory 82% HTTP 500 errors 207 server issue detected,it
+SpO2 91% oxygen saturation BP 103/48 heart rate 104 bpm patient monitoring,medical
+CPU 57% memory 52% HTTP 500 errors 828 server issue detected,it
+SpO2 79% oxygen saturation BP 100/48 heart rate 120 bpm patient monitoring,medical
+SpO2 89% oxygen saturation BP 140/49 heart rate 109 bpm patient monitoring,medical
+CPU 87% memory 54% HTTP 500 errors 46 server issue detected,it
+SpO2 92% oxygen saturation BP 82/43 heart rate 129 bpm patient monitoring,medical
+SpO2 85% oxygen saturation BP 120/81 heart rate 70 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 86/52 heart rate 113 bpm patient monitoring,medical
+patient oxygen level critical blood pressure dropping emergency code blue,medical
+CPU 70% memory 91% HTTP 500 errors 75 server issue detected,it
+motor temperature 96C vibration 8.5mm/s RPM 1368 bearing fault detected,machine
+SpO2 90% oxygen saturation BP 121/55 heart rate 78 bpm patient monitoring,medical
+CPU 58% memory 82% HTTP 500 errors 296 server issue detected,it
+SpO2 88% oxygen saturation BP 111/69 heart rate 116 bpm patient monitoring,medical
+motor temperature 61C vibration 2.0mm/s RPM 2086 bearing fault detected,machine
+SpO2 87% oxygen saturation BP 131/40 heart rate 105 bpm patient monitoring,medical
+SpO2 79% oxygen saturation BP 101/87 heart rate 131 bpm patient monitoring,medical
+motor temperature 90C vibration 10.9mm/s RPM 1397 bearing fault detected,machine
+SpO2 95% oxygen saturation BP 128/85 heart rate 79 bpm patient monitoring,medical
+motor temperature 91C vibration 7.8mm/s RPM 2923 bearing fault detected,machine
+motor temperature 107C vibration 8.5mm/s RPM 2951 bearing fault detected,machine
+SpO2 96% oxygen saturation BP 121/86 heart rate 81 bpm patient monitoring,medical
+CPU 80% memory 72% HTTP 500 errors 573 server issue detected,it
+SpO2 96% oxygen saturation BP 109/54 heart rate 85 bpm patient monitoring,medical
+SpO2 79% oxygen saturation BP 129/51 heart rate 66 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 98/68 heart rate 135 bpm patient monitoring,medical
+hydraulic pressure exceeding limit pump failure imminent shutdown,machine
+motor temperature 64C vibration 2.6mm/s RPM 2296 bearing fault detected,machine
+SpO2 87% oxygen saturation BP 70/64 heart rate 93 bpm patient monitoring,medical
+CPU 81% memory 62% HTTP 500 errors 125 server issue detected,it
+CPU 61% memory 100% HTTP 500 errors 370 server issue detected,it
+SpO2 90% oxygen saturation BP 107/42 heart rate 89 bpm patient monitoring,medical
+SpO2 95% oxygen saturation BP 70/88 heart rate 73 bpm patient monitoring,medical
+CPU 66% memory 91% HTTP 500 errors 801 server issue detected,it
+SpO2 99% oxygen saturation BP 96/80 heart rate 87 bpm patient monitoring,medical
+SpO2 97% oxygen saturation BP 138/48 heart rate 95 bpm patient monitoring,medical
+motor temperature 108C vibration 4.4mm/s RPM 1695 bearing fault detected,machine
+CPU 63% memory 54% HTTP 500 errors 103 server issue detected,it
+SpO2 96% oxygen saturation BP 118/83 heart rate 82 bpm patient monitoring,medical
+api gateway returning 502 bad gateway errors,it
+CPU 81% memory 69% HTTP 500 errors 509 server issue detected,it
+SpO2 84% oxygen saturation BP 83/77 heart rate 63 bpm patient monitoring,medical
+SpO2 91% oxygen saturation BP 83/80 heart rate 98 bpm patient monitoring,medical
+motor temperature 103C vibration 6.1mm/s RPM 2424 bearing fault detected,machine
+SpO2 96% oxygen saturation BP 83/62 heart rate 131 bpm patient monitoring,medical
+CPU 91% memory 96% HTTP 500 errors 661 server issue detected,it
+SpO2 82% oxygen saturation BP 70/44 heart rate 140 bpm patient monitoring,medical
+motor temperature 86C vibration 8.2mm/s RPM 2707 bearing fault detected,machine
+CPU 69% memory 80% HTTP 500 errors 250 server issue detected,it
+motor temperature 83C vibration 8.5mm/s RPM 2168 bearing fault detected,machine
+SpO2 82% oxygen saturation BP 74/60 heart rate 111 bpm patient monitoring,medical
+motor temperature 107C vibration 5.1mm/s RPM 1266 bearing fault detected,machine
+motor temperature 94C vibration 6.2mm/s RPM 1074 bearing fault detected,machine
+motor temperature 108C vibration 8.1mm/s RPM 1585 bearing fault detected,machine
+CPU 62% memory 100% HTTP 500 errors 142 server issue detected,it
+CPU 74% memory 74% HTTP 500 errors 82 server issue detected,it
+motor temperature 90C vibration 2.2mm/s RPM 1781 bearing fault detected,machine
+SpO2 81% oxygen saturation BP 139/88 heart rate 85 bpm patient monitoring,medical
+motor temperature 89C vibration 10.2mm/s RPM 2883 bearing fault detected,machine
+motor temperature 88C vibration 8.5mm/s RPM 2806 bearing fault detected,machine
+CPU 54% memory 80% HTTP 500 errors 32 server issue detected,it
+motor temperature 82C vibration 5.9mm/s RPM 2488 bearing fault detected,machine
+SpO2 94% oxygen saturation BP 133/80 heart rate 116 bpm patient monitoring,medical
+motor temperature 102C vibration 2.6mm/s RPM 1716 bearing fault detected,machine
+CPU 89% memory 68% HTTP 500 errors 710 server issue detected,it
+motor temperature 80C vibration 2.7mm/s RPM 1139 bearing fault detected,machine
+motor temperature 67C vibration 10.4mm/s RPM 2333 bearing fault detected,machine
+SpO2 95% oxygen saturation BP 116/50 heart rate 107 bpm patient monitoring,medical
+CPU 83% memory 78% HTTP 500 errors 119 server issue detected,it
+motor temperature 76C vibration 1.6mm/s RPM 1984 bearing fault detected,machine
+CPU 99% memory 59% HTTP 500 errors 297 server issue detected,it
+motor temperature 107C vibration 8.4mm/s RPM 2197 bearing fault detected,machine
+SpO2 93% oxygen saturation BP 75/79 heart rate 70 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 94/46 heart rate 72 bpm patient monitoring,medical
+CPU 62% memory 88% HTTP 500 errors 521 server issue detected,it
+SpO2 90% oxygen saturation BP 107/72 heart rate 94 bpm patient monitoring,medical
+SpO2 97% oxygen saturation BP 118/64 heart rate 79 bpm patient monitoring,medical
+motor temperature 107C vibration 10.6mm/s RPM 2647 bearing fault detected,machine
+motor temperature 78C vibration 4.6mm/s RPM 1850 bearing fault detected,machine
+motor temperature 65C vibration 5.8mm/s RPM 2524 bearing fault detected,machine
+SpO2 84% oxygen saturation BP 108/77 heart rate 134 bpm patient monitoring,medical
+SpO2 76% oxygen saturation BP 128/74 heart rate 75 bpm patient monitoring,medical
+SpO2 96% oxygen saturation BP 84/76 heart rate 87 bpm patient monitoring,medical
+motor temperature 84C vibration 10.0mm/s RPM 2925 bearing fault detected,machine
+motor temperature 62C vibration 3.4mm/s RPM 2227 bearing fault detected,machine
+CPU 64% memory 65% HTTP 500 errors 471 server issue detected,it
+SpO2 78% oxygen saturation BP 71/76 heart rate 96 bpm patient monitoring,medical
+motor temperature 70C vibration 4.0mm/s RPM 2854 bearing fault detected,machine
+CPU 55% memory 54% HTTP 500 errors 316 server issue detected,it
+motor temperature 87C vibration 2.8mm/s RPM 1909 bearing fault detected,machine
+motor temperature 105C vibration 2.6mm/s RPM 1879 bearing fault detected,machine
+motor temperature 90C vibration 8.7mm/s RPM 1284 bearing fault detected,machine
+motor temperature 101C vibration 2.9mm/s RPM 2595 bearing fault detected,machine
+SpO2 83% oxygen saturation BP 123/56 heart rate 70 bpm patient monitoring,medical
+motor current spike indicates winding damage,machine
+CPU 62% memory 98% HTTP 500 errors 163 server issue detected,it
+CPU 67% memory 62% HTTP 500 errors 828 server issue detected,it
+CPU 59% memory 70% HTTP 500 errors 882 server issue detected,it
+motor temperature 108C vibration 7.2mm/s RPM 2186 bearing fault detected,machine
+SpO2 97% oxygen saturation BP 72/88 heart rate 133 bpm patient monitoring,medical
+SpO2 89% oxygen saturation BP 80/78 heart rate 65 bpm patient monitoring,medical
+CPU 50% memory 98% HTTP 500 errors 23 server issue detected,it
+CPU 73% memory 54% HTTP 500 errors 939 server issue detected,it
+CPU 86% memory 52% HTTP 500 errors 619 server issue detected,it
+motor temperature 62C vibration 11.4mm/s RPM 1623 bearing fault detected,machine
+motor temperature 103C vibration 2.2mm/s RPM 2458 bearing fault detected,machine
+SpO2 89% oxygen saturation BP 106/67 heart rate 131 bpm patient monitoring,medical
+SpO2 97% oxygen saturation BP 83/64 heart rate 64 bpm patient monitoring,medical
+CPU 99% memory 58% HTTP 500 errors 784 server issue detected,it
+motor temperature 94C vibration 4.2mm/s RPM 1210 bearing fault detected,machine
+motor temperature 101C vibration 8.0mm/s RPM 2988 bearing fault detected,machine
+SpO2 92% oxygen saturation BP 74/63 heart rate 134 bpm patient monitoring,medical
+SpO2 90% oxygen saturation BP 98/52 heart rate 118 bpm patient monitoring,medical
+motor temperature 84C vibration 11.9mm/s RPM 2086 bearing fault detected,machine
+motor temperature 102C vibration 10.1mm/s RPM 1547 bearing fault detected,machine
+motor temperature 102C vibration 6.7mm/s RPM 1938 bearing fault detected,machine
+SpO2 80% oxygen saturation BP 126/74 heart rate 98 bpm patient monitoring,medical
+CPU 99% memory 93% HTTP 500 errors 838 server issue detected,it
+SpO2 78% oxygen saturation BP 79/74 heart rate 87 bpm patient monitoring,medical
+motor temperature 76C vibration 6.0mm/s RPM 1618 bearing fault detected,machine
+cpu throttling triggered due to sustained load,it
+CPU 72% memory 57% HTTP 500 errors 182 server issue detected,it
+CPU 69% memory 79% HTTP 500 errors 689 server issue detected,it
+motor temperature 66C vibration 9.5mm/s RPM 2505 bearing fault detected,machine
+CPU 80% memory 83% HTTP 500 errors 420 server issue detected,it
+motor temperature 90C vibration 7.9mm/s RPM 2661 bearing fault detected,machine
+SpO2 84% oxygen saturation BP 83/48 heart rate 93 bpm patient monitoring,medical
+SpO2 86% oxygen saturation BP 114/78 heart rate 93 bpm patient monitoring,medical
+motor temperature 81C vibration 9.5mm/s RPM 2615 bearing fault detected,machine
+motor temperature 81C vibration 2.0mm/s RPM 2389 bearing fault detected,machine
+SpO2 79% oxygen saturation BP 117/88 heart rate 80 bpm patient monitoring,medical
+SpO2 95% oxygen saturation BP 134/78 heart rate 85 bpm patient monitoring,medical
+motor temperature 91C vibration 11.0mm/s RPM 1293 bearing fault detected,machine
+SpO2 90% oxygen saturation BP 98/57 heart rate 115 bpm patient monitoring,medical
+bearing lubrication failure vibration exceeding threshold,machine
+CPU 80% memory 70% HTTP 500 errors 958 server issue detected,it
+motor temperature 102C vibration 1.9mm/s RPM 2996 bearing fault detected,machine
+CPU 65% memory 63% HTTP 500 errors 597 server issue detected,it
+SpO2 75% oxygen saturation BP 112/89 heart rate 76 bpm patient monitoring,medical
+motor temperature 102C vibration 3.8mm/s RPM 2952 bearing fault detected,machine
+SpO2 76% oxygen saturation BP 114/54 heart rate 68 bpm patient monitoring,medical
+motor temperature 95C vibration 1.3mm/s RPM 2902 bearing fault detected,machine
+motor temperature 97C vibration 7.0mm/s RPM 1665 bearing fault detected,machine
+CPU 89% memory 70% HTTP 500 errors 166 server issue detected,it
+CPU 66% memory 91% HTTP 500 errors 368 server issue detected,it
+CPU 78% memory 83% HTTP 500 errors 720 server issue detected,it
+SpO2 90% oxygen saturation BP 72/87 heart rate 129 bpm patient monitoring,medical
+motor temperature 73C vibration 9.9mm/s RPM 1477 bearing fault detected,machine
+CPU 59% memory 69% HTTP 500 errors 168 server issue detected,it
+CPU 99% memory 87% HTTP 500 errors 591 server issue detected,it
+CPU 53% memory 72% HTTP 500 errors 964 server issue detected,it
+CPU 58% memory 54% HTTP 500 errors 462 server issue detected,it
+motor temperature 77C vibration 1.4mm/s RPM 1758 bearing fault detected,machine
+CPU 67% memory 53% HTTP 500 errors 570 server issue detected,it
+SpO2 96% oxygen saturation BP 83/50 heart rate 102 bpm patient monitoring,medical
+motor temperature 99C vibration 1.1mm/s RPM 1162 bearing fault detected,machine
+motor temperature 100C vibration 11.6mm/s RPM 2413 bearing fault detected,machine
+motor temperature 62C vibration 9.7mm/s RPM 2814 bearing fault detected,machine
+SpO2 97% oxygen saturation BP 78/42 heart rate 89 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 74/41 heart rate 71 bpm patient monitoring,medical
+CPU 66% memory 95% HTTP 500 errors 190 server issue detected,it
+SpO2 86% oxygen saturation BP 122/61 heart rate 101 bpm patient monitoring,medical
+motor temperature 101C vibration 8.4mm/s RPM 2041 bearing fault detected,machine
+CPU 68% memory 81% HTTP 500 errors 611 server issue detected,it
+CPU 95% memory 81% HTTP 500 errors 324 server issue detected,it
+motor temperature 89C vibration 6.0mm/s RPM 1116 bearing fault detected,machine
+motor temperature 96C vibration 3.3mm/s RPM 2699 bearing fault detected,machine
+SpO2 97% oxygen saturation BP 86/80 heart rate 122 bpm patient monitoring,medical
+SpO2 99% oxygen saturation BP 75/88 heart rate 63 bpm patient monitoring,medical
+SpO2 98% oxygen saturation BP 88/66 heart rate 79 bpm patient monitoring,medical
+motor temperature 88C vibration 11.0mm/s RPM 2170 bearing fault detected,machine
+patient stable vital signs normal recovery progressing,medical
+motor temperature 100C vibration 9.7mm/s RPM 1936 bearing fault detected,machine
+SpO2 79% oxygen saturation BP 97/88 heart rate 103 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 111/78 heart rate 92 bpm patient monitoring,medical
+SpO2 87% oxygen saturation BP 104/80 heart rate 131 bpm patient monitoring,medical
+motor temperature 94C vibration 10.6mm/s RPM 1749 bearing fault detected,machine
+SpO2 76% oxygen saturation BP 76/75 heart rate 97 bpm patient monitoring,medical
+CPU 58% memory 54% HTTP 500 errors 241 server issue detected,it
+CPU 83% memory 81% HTTP 500 errors 910 server issue detected,it
+authentication failed invalid token received,it
+CPU 95% memory 63% HTTP 500 errors 706 server issue detected,it
+motor temperature 104C vibration 4.2mm/s RPM 2699 bearing fault detected,machine
+motor temperature 95C vibration 1.7mm/s RPM 2959 bearing fault detected,machine
+motor temperature 69C vibration 7.0mm/s RPM 2489 bearing fault detected,machine
+CPU 65% memory 50% HTTP 500 errors 267 server issue detected,it
+SpO2 83% oxygen saturation BP 105/75 heart rate 61 bpm patient monitoring,medical
+motor temperature 79C vibration 5.9mm/s RPM 2469 bearing fault detected,machine
+SpO2 94% oxygen saturation BP 137/40 heart rate 130 bpm patient monitoring,medical
+motor temperature 75C vibration 11.7mm/s RPM 2250 bearing fault detected,machine
+SpO2 89% oxygen saturation BP 101/44 heart rate 116 bpm patient monitoring,medical
+CPU 52% memory 75% HTTP 500 errors 52 server issue detected,it
+SpO2 76% oxygen saturation BP 110/87 heart rate 120 bpm patient monitoring,medical
+CPU 70% memory 76% HTTP 500 errors 155 server issue detected,it
+motor temperature 102C vibration 11.4mm/s RPM 1866 bearing fault detected,machine
+SpO2 89% oxygen saturation BP 103/88 heart rate 91 bpm patient monitoring,medical
+SpO2 96% oxygen saturation BP 132/49 heart rate 84 bpm patient monitoring,medical
+CPU 68% memory 91% HTTP 500 errors 979 server issue detected,it
+motor temperature 61C vibration 3.0mm/s RPM 2439 bearing fault detected,machine
+SpO2 96% oxygen saturation BP 85/90 heart rate 132 bpm patient monitoring,medical
+SpO2 89% oxygen saturation BP 85/81 heart rate 79 bpm patient monitoring,medical
+SpO2 80% oxygen saturation BP 140/44 heart rate 80 bpm patient monitoring,medical
+motor temperature 82C vibration 4.9mm/s RPM 2962 bearing fault detected,machine
+SpO2 87% oxygen saturation BP 112/57 heart rate 68 bpm patient monitoring,medical
+CPU 80% memory 62% HTTP 500 errors 980 server issue detected,it
+motor temperature 92C vibration 8.1mm/s RPM 1080 bearing fault detected,machine
+motor temperature 109C vibration 7.8mm/s RPM 2223 bearing fault detected,machine
+CPU 59% memory 92% HTTP 500 errors 533 server issue detected,it
+SpO2 92% oxygen saturation BP 95/63 heart rate 115 bpm patient monitoring,medical
+SpO2 82% oxygen saturation BP 73/82 heart rate 84 bpm patient monitoring,medical
+motor temperature 87C vibration 1.2mm/s RPM 2886 bearing fault detected,machine
+CPU 56% memory 75% HTTP 500 errors 382 server issue detected,it
+SpO2 76% oxygen saturation BP 99/44 heart rate 64 bpm patient monitoring,medical
+CPU 58% memory 83% HTTP 500 errors 375 server issue detected,it
+CPU 86% memory 53% HTTP 500 errors 572 server issue detected,it
+motor temperature 83C vibration 2.2mm/s RPM 1478 bearing fault detected,machine
+SpO2 95% oxygen saturation BP 100/85 heart rate 80 bpm patient monitoring,medical
+SpO2 86% oxygen saturation BP 109/55 heart rate 67 bpm patient monitoring,medical
+motor temperature 102C vibration 8.5mm/s RPM 1280 bearing fault detected,machine
+SpO2 95% oxygen saturation BP 104/79 heart rate 128 bpm patient monitoring,medical
+unexpected service restart detected in production,it
+CPU 62% memory 84% HTTP 500 errors 277 server issue detected,it
+CPU 76% memory 80% HTTP 500 errors 475 server issue detected,it
+SpO2 76% oxygen saturation BP 94/73 heart rate 106 bpm patient monitoring,medical
+motor temperature 99C vibration 7.7mm/s RPM 2316 bearing fault detected,machine
+CPU 61% memory 79% HTTP 500 errors 934 server issue detected,it
+heart rate 142 bpm irregular rhythm chest pain reported,medical
+motor temperature 102C vibration 5.4mm/s RPM 1016 bearing fault detected,machine
+CPU 80% memory 65% HTTP 500 errors 869 server issue detected,it
+SpO2 79% oxygen saturation BP 129/82 heart rate 127 bpm patient monitoring,medical
+SpO2 93% oxygen saturation BP 94/56 heart rate 65 bpm patient monitoring,medical
+CPU 69% memory 80% HTTP 500 errors 835 server issue detected,it
+SpO2 83% oxygen saturation BP 137/78 heart rate 114 bpm patient monitoring,medical
+motor temperature 106C vibration 2.4mm/s RPM 2862 bearing fault detected,machine
+CPU 93% memory 92% HTTP 500 errors 895 server issue detected,it
+SpO2 90% oxygen saturation BP 79/69 heart rate 113 bpm patient monitoring,medical
+motor temperature 105C vibration 3.5mm/s RPM 2144 bearing fault detected,machine
+motor temperature 76C vibration 9.8mm/s RPM 1225 bearing fault detected,machine
+CPU 51% memory 73% HTTP 500 errors 567 server issue detected,it
+cardiac arrest code blue activated immediately,medical
+SpO2 86% oxygen saturation BP 96/82 heart rate 94 bpm patient monitoring,medical
+CPU 95% memory 58% HTTP 500 errors 531 server issue detected,it
+CPU 82% memory 76% HTTP 500 errors 467 server issue detected,it
+CPU 97% memory 96% HTTP 500 errors 63 server issue detected,it
+motor temperature 66C vibration 6.0mm/s RPM 1453 bearing fault detected,machine
+motor temperature 94C vibration 10.2mm/s RPM 2809 bearing fault detected,machine
+motor temperature 101C vibration 4.7mm/s RPM 1254 bearing fault detected,machine
+SpO2 99% oxygen saturation BP 113/47 heart rate 97 bpm patient monitoring,medical
+SpO2 89% oxygen saturation BP 111/61 heart rate 108 bpm patient monitoring,medical
+SpO2 84% oxygen saturation BP 126/47 heart rate 119 bpm patient monitoring,medical
+CPU 75% memory 72% HTTP 500 errors 977 server issue detected,it
+CPU 70% memory 92% HTTP 500 errors 355 server issue detected,it
+CPU 51% memory 55% HTTP 500 errors 967 server issue detected,it
+CPU 69% memory 86% HTTP 500 errors 617 server issue detected,it
+SpO2 95% oxygen saturation BP 105/89 heart rate 126 bpm patient monitoring,medical
+SpO2 93% oxygen saturation BP 112/46 heart rate 116 bpm patient monitoring,medical
+motor temperature 83C vibration 3.8mm/s RPM 1033 bearing fault detected,machine
+motor temperature 108C vibration 8.8mm/s RPM 1918 bearing fault detected,machine
+CPU 58% memory 80% HTTP 500 errors 156 server issue detected,it
+SpO2 78% oxygen saturation BP 118/57 heart rate 118 bpm patient monitoring,medical
+SpO2 77% oxygen saturation BP 112/79 heart rate 100 bpm patient monitoring,medical
+oxygen saturation 81% blood pressure unstable critical patient,medical
+SpO2 95% oxygen saturation BP 132/45 heart rate 120 bpm patient monitoring,medical
+CPU 84% memory 92% HTTP 500 errors 845 server issue detected,it
+CPU 59% memory 69% HTTP 500 errors 385 server issue detected,it
+SpO2 96% oxygen saturation BP 117/44 heart rate 124 bpm patient monitoring,medical
+SpO2 86% oxygen saturation BP 109/90 heart rate 89 bpm patient monitoring,medical
+motor temperature 92C vibration 5.4mm/s RPM 2669 bearing fault detected,machine
+SpO2 82% oxygen saturation BP 95/41 heart rate 139 bpm patient monitoring,medical
+blood glucose 32 mg/dL hypoglycemia seizure risk unconscious,medical
+CPU 91% memory 93% HTTP 500 errors 481 server issue detected,it
+CPU 60% memory 70% HTTP 500 errors 957 server issue detected,it
+CPU 86% memory 52% HTTP 500 errors 845 server issue detected,it
+CPU 61% memory 95% HTTP 500 errors 455 server issue detected,it
+CPU 89% memory 99% HTTP 500 errors 861 server issue detected,it
+motor temperature 103C vibration 7.6mm/s RPM 2616 bearing fault detected,machine
+disk usage 99 percent storage exhausted,it
+SpO2 85% oxygen saturation BP 132/41 heart rate 74 bpm patient monitoring,medical
+CPU 82% memory 78% HTTP 500 errors 828 server issue detected,it
+SpO2 85% oxygen saturation BP 110/74 heart rate 70 bpm patient monitoring,medical
+CPU 76% memory 71% HTTP 500 errors 734 server issue detected,it
+SpO2 75% oxygen saturation BP 120/77 heart rate 132 bpm patient monitoring,medical
+SpO2 99% oxygen saturation BP 107/45 heart rate 89 bpm patient monitoring,medical
+motor temperature 81C vibration 11.8mm/s RPM 1172 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 138/89 heart rate 76 bpm patient monitoring,medical
+CPU 76% memory 76% HTTP 500 errors 570 server issue detected,it
+CPU 64% memory 53% HTTP 500 errors 102 server issue detected,it
+motor temperature 83C vibration 5.1mm/s RPM 1579 bearing fault detected,machine
+CPU 55% memory 93% HTTP 500 errors 990 server issue detected,it
+motor temperature 83C vibration 2.0mm/s RPM 2729 bearing fault detected,machine
+SpO2 93% oxygen saturation BP 119/54 heart rate 112 bpm patient monitoring,medical
+CPU 73% memory 76% HTTP 500 errors 718 server issue detected,it
+oil pressure critically low lubrication system fault,machine
+SpO2 80% oxygen saturation BP 76/56 heart rate 121 bpm patient monitoring,medical
+SpO2 97% oxygen saturation BP 110/53 heart rate 123 bpm patient monitoring,medical
+CPU 92% memory 57% HTTP 500 errors 476 server issue detected,it
+motor temperature 96C vibration 6.6mm/s RPM 1316 bearing fault detected,machine
+CPU 70% memory 86% HTTP 500 errors 612 server issue detected,it
+motor temperature 95C vibration 5.0mm/s RPM 2619 bearing fault detected,machine
+SpO2 78% oxygen saturation BP 123/78 heart rate 136 bpm patient monitoring,medical
+SpO2 96% oxygen saturation BP 138/88 heart rate 94 bpm patient monitoring,medical
+CPU 61% memory 98% HTTP 500 errors 550 server issue detected,it
+motor temperature 101C vibration 5.5mm/s RPM 1286 bearing fault detected,machine
+motor temperature 71C vibration 2.4mm/s RPM 2090 bearing fault detected,machine
+CPU 64% memory 69% HTTP 500 errors 878 server issue detected,it
+CPU 86% memory 64% HTTP 500 errors 547 server issue detected,it
+CPU 91% memory 99% HTTP 500 errors 590 server issue detected,it
+SpO2 88% oxygen saturation BP 92/86 heart rate 126 bpm patient monitoring,medical
+CPU 61% memory 52% HTTP 500 errors 856 server issue detected,it
+CPU 57% memory 71% HTTP 500 errors 166 server issue detected,it
+motor temperature 101C vibration 10.5mm/s RPM 2751 bearing fault detected,machine
+CPU 79% memory 53% HTTP 500 errors 575 server issue detected,it
+CPU 52% memory 68% HTTP 500 errors 978 server issue detected,it
+motor temperature 100C vibration 6.7mm/s RPM 1495 bearing fault detected,machine
+CPU 95% memory 59% HTTP 500 errors 825 server issue detected,it
+SpO2 81% oxygen saturation BP 123/64 heart rate 134 bpm patient monitoring,medical
+CPU 99% memory 76% HTTP 500 errors 843 server issue detected,it
+SpO2 89% oxygen saturation BP 90/87 heart rate 120 bpm patient monitoring,medical
+CPU 95% memory 78% HTTP 500 errors 219 server issue detected,it
+CPU 53% memory 60% HTTP 500 errors 450 server issue detected,it
+CPU 75% memory 82% HTTP 500 errors 468 server issue detected,it
+SpO2 98% oxygen saturation BP 112/90 heart rate 112 bpm patient monitoring,medical
+SpO2 78% oxygen saturation BP 78/65 heart rate 122 bpm patient monitoring,medical
+CPU 79% memory 54% HTTP 500 errors 705 server issue detected,it
+SpO2 78% oxygen saturation BP 79/84 heart rate 79 bpm patient monitoring,medical
+motor temperature 109C vibration 7.1mm/s RPM 2772 bearing fault detected,machine
+motor temperature 87C vibration 2.1mm/s RPM 2437 bearing fault detected,machine
+CPU 86% memory 96% HTTP 500 errors 320 server issue detected,it
+motor temperature 95C vibration 1.2mm/s RPM 2788 bearing fault detected,machine
+CPU 82% memory 58% HTTP 500 errors 335 server issue detected,it
+SpO2 87% oxygen saturation BP 138/61 heart rate 63 bpm patient monitoring,medical
+SpO2 89% oxygen saturation BP 136/68 heart rate 75 bpm patient monitoring,medical
+SpO2 94% oxygen saturation BP 134/67 heart rate 130 bpm patient monitoring,medical
+motor temperature 71C vibration 3.9mm/s RPM 1259 bearing fault detected,machine
+CPU 53% memory 65% HTTP 500 errors 758 server issue detected,it
+SpO2 95% oxygen saturation BP 132/68 heart rate 62 bpm patient monitoring,medical
+CPU 75% memory 70% HTTP 500 errors 665 server issue detected,it
+CPU 99% memory 58% HTTP 500 errors 5 server issue detected,it
+CPU 66% memory 96% HTTP 500 errors 374 server issue detected,it
+SpO2 97% oxygen saturation BP 124/61 heart rate 95 bpm patient monitoring,medical
+CPU 89% memory 80% HTTP 500 errors 893 server issue detected,it
+SpO2 92% oxygen saturation BP 71/83 heart rate 74 bpm patient monitoring,medical
+motor temperature 73C vibration 5.1mm/s RPM 1929 bearing fault detected,machine
+CPU 99% memory 91% HTTP 500 errors 375 server issue detected,it
+SpO2 90% oxygen saturation BP 136/81 heart rate 116 bpm patient monitoring,medical
+BP 180/110 severe hypertension stroke risk headache vision blur,medical
+CPU 91% memory 80% HTTP 500 errors 488 server issue detected,it
+motor temperature 61C vibration 3.8mm/s RPM 2710 bearing fault detected,machine
+motor temperature 61C vibration 2.6mm/s RPM 2244 bearing fault detected,machine
+CPU 58% memory 77% HTTP 500 errors 514 server issue detected,it
+CPU 87% memory 81% HTTP 500 errors 93 server issue detected,it
+SpO2 96% oxygen saturation BP 139/69 heart rate 112 bpm patient monitoring,medical
+motor temperature 93C vibration 3.9mm/s RPM 1169 bearing fault detected,machine
+SpO2 89% oxygen saturation BP 91/84 heart rate 98 bpm patient monitoring,medical
+motor temperature 80C vibration 7.7mm/s RPM 1134 bearing fault detected,machine
+SpO2 92% oxygen saturation BP 110/88 heart rate 116 bpm patient monitoring,medical
+memory leak detected heap size critical out of memory kill,it
+cooling fan failure motor temperature increasing,machine
+CPU 94% memory 57% HTTP 500 errors 654 server issue detected,it
+motor temperature 88C vibration 6.1mm/s RPM 1577 bearing fault detected,machine
+CPU 56% memory 71% HTTP 500 errors 291 server issue detected,it
+motor temperature 101C vibration 10.0mm/s RPM 1483 bearing fault detected,machine
+SpO2 97% oxygen saturation BP 136/69 heart rate 66 bpm patient monitoring,medical
+SpO2 99% oxygen saturation BP 124/54 heart rate 82 bpm patient monitoring,medical
+CPU 87% memory 87% HTTP 500 errors 157 server issue detected,it
+CPU 58% memory 96% HTTP 500 errors 228 server issue detected,it
+CPU 95% memory 70% HTTP 500 errors 751 server issue detected,it
+CPU 67% memory 65% HTTP 500 errors 983 server issue detected,it
+motor temperature 103C vibration 9.3mm/s RPM 2571 bearing fault detected,machine
+motor temperature 91C vibration 6.8mm/s RPM 1631 bearing fault detected,machine
+motor temperature 69C vibration 3.7mm/s RPM 1843 bearing fault detected,machine
+SpO2 84% oxygen saturation BP 118/65 heart rate 85 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 135/47 heart rate 109 bpm patient monitoring,medical
+CPU 64% memory 84% HTTP 500 errors 222 server issue detected,it
+motor temperature 84C vibration 4.7mm/s RPM 1382 bearing fault detected,machine
+SpO2 95% oxygen saturation BP 94/85 heart rate 109 bpm patient monitoring,medical
+CPU 61% memory 90% HTTP 500 errors 695 server issue detected,it
+SpO2 98% oxygen saturation BP 104/60 heart rate 91 bpm patient monitoring,medical
+motor temperature 91C vibration 8.6mm/s RPM 1752 bearing fault detected,machine
+SpO2 96% oxygen saturation BP 132/49 heart rate 117 bpm patient monitoring,medical
+SpO2 95% oxygen saturation BP 132/74 heart rate 64 bpm patient monitoring,medical
+motor temperature 102C vibration 10.5mm/s RPM 1269 bearing fault detected,machine
+SpO2 88% oxygen saturation BP 114/86 heart rate 100 bpm patient monitoring,medical
+SpO2 89% oxygen saturation BP 102/89 heart rate 107 bpm patient monitoring,medical
+SpO2 81% oxygen saturation BP 115/56 heart rate 103 bpm patient monitoring,medical
+motor temperature 102C vibration 6.3mm/s RPM 2735 bearing fault detected,machine
+SpO2 97% oxygen saturation BP 108/84 heart rate 111 bpm patient monitoring,medical
+motor temperature 68C vibration 4.0mm/s RPM 2296 bearing fault detected,machine
+CPU 52% memory 52% HTTP 500 errors 140 server issue detected,it
+CPU 86% memory 85% HTTP 500 errors 199 server issue detected,it
+CPU 78% memory 98% HTTP 500 errors 563 server issue detected,it
+CPU 95% memory 99% HTTP 500 errors 318 server issue detected,it
+SpO2 91% oxygen saturation BP 109/82 heart rate 112 bpm patient monitoring,medical
+bearing temperature rising rapidly failure imminent,machine
+motor temperature 75C vibration 7.5mm/s RPM 1032 bearing fault detected,machine
+CPU 82% memory 82% HTTP 500 errors 545 server issue detected,it
+CPU 89% memory 57% HTTP 500 errors 131 server issue detected,it
+CPU 79% memory 93% HTTP 500 errors 826 server issue detected,it
+SpO2 86% oxygen saturation BP 92/59 heart rate 61 bpm patient monitoring,medical
+valve blockage reducing system throughput significantly,machine
+CPU 75% memory 66% HTTP 500 errors 836 server issue detected,it
+CPU 94% memory 66% HTTP 500 errors 624 server issue detected,it
+CPU 76% memory 82% HTTP 500 errors 793 server issue detected,it
+CPU 54% memory 84% HTTP 500 errors 61 server issue detected,it
+motor temperature 103C vibration 9.6mm/s RPM 1071 bearing fault detected,machine
+CPU 65% memory 53% HTTP 500 errors 685 server issue detected,it
+CPU 68% memory 84% HTTP 500 errors 8 server issue detected,it
+motor temperature 103C vibration 5.0mm/s RPM 2846 bearing fault detected,machine
+CPU 83% memory 58% HTTP 500 errors 397 server issue detected,it
+motor temperature 90C vibration 6.5mm/s RPM 2961 bearing fault detected,machine
+SpO2 97% oxygen saturation BP 132/47 heart rate 63 bpm patient monitoring,medical
+CPU 65% memory 67% HTTP 500 errors 571 server issue detected,it
+motor temperature 96C vibration 3.5mm/s RPM 1878 bearing fault detected,machine
+motor temperature 80C vibration 10.5mm/s RPM 2284 bearing fault detected,machine
+SpO2 96% oxygen saturation BP 101/57 heart rate 80 bpm patient monitoring,medical
+CPU 87% memory 61% HTTP 500 errors 786 server issue detected,it
+SpO2 93% oxygen saturation BP 124/59 heart rate 132 bpm patient monitoring,medical
+CPU 93% memory 98% HTTP 500 errors 197 server issue detected,it
+motor temperature 107C vibration 5.8mm/s RPM 2958 bearing fault detected,machine
+CPU 95% memory 54% HTTP 500 errors 563 server issue detected,it
+motor temperature 89C vibration 11.0mm/s RPM 1618 bearing fault detected,machine
+application crashed due to null pointer exception,it
+CPU 53% memory 79% HTTP 500 errors 135 server issue detected,it
+SpO2 94% oxygen saturation BP 77/79 heart rate 72 bpm patient monitoring,medical
+CPU 95% memory 55% HTTP 500 errors 354 server issue detected,it
+CPU 82% memory 64% HTTP 500 errors 124 server issue detected,it
+oxygen saturation dropping despite oxygen support,medical
+emergency shutdown activated due to thermal overload,machine
+motor temperature 101C vibration 11.6mm/s RPM 1124 bearing fault detected,machine
+CPU 93% memory 98% HTTP 500 errors 610 server issue detected,it
+CPU 66% memory 91% HTTP 500 errors 215 server issue detected,it
+motor temperature 70C vibration 3.8mm/s RPM 2688 bearing fault detected,machine
+SpO2 88% oxygen saturation BP 133/58 heart rate 111 bpm patient monitoring,medical
+CPU 98% memory 75% HTTP 500 errors 374 server issue detected,it
+coolant temperature critical engine overheat shutdown initiated,machine
+hydraulic leak pressure dropped below safe level,machine
+SpO2 85% oxygen saturation BP 94/84 heart rate 90 bpm patient monitoring,medical
+motor temperature 91C vibration 2.3mm/s RPM 1480 bearing fault detected,machine
+motor temperature 73C vibration 5.9mm/s RPM 2946 bearing fault detected,machine
+SpO2 90% oxygen saturation BP 131/68 heart rate 103 bpm patient monitoring,medical
+CPU 70% memory 65% HTTP 500 errors 309 server issue detected,it
+CPU 84% memory 71% HTTP 500 errors 559 server issue detected,it
+motor temperature 85C vibration 10.5mm/s RPM 1086 bearing fault detected,machine
+motor temperature 100C vibration 3.1mm/s RPM 1513 bearing fault detected,machine
+motor temperature 84C vibration 6.1mm/s RPM 2135 bearing fault detected,machine
+rotor imbalance excessive vibration shutdown recommended,machine
+memory leak detected heap allocation continuously growing,it
+CPU 84% memory 58% HTTP 500 errors 669 server issue detected,it
+CPU 60% memory 70% HTTP 500 errors 874 server issue detected,it
+motor temperature 77C vibration 8.0mm/s RPM 2620 bearing fault detected,machine
+CPU 75% memory 100% HTTP 500 errors 507 server issue detected,it
+shaft misalignment causing excessive vibration,machine
+CPU 91% memory 62% HTTP 500 errors 774 server issue detected,it
+motor temperature 105C vibration 10.3mm/s RPM 2743 bearing fault detected,machine
+CPU 87% memory 97% HTTP 500 errors 933 server issue detected,it
+motor temperature 64C vibration 2.2mm/s RPM 2853 bearing fault detected,machine
+SpO2 81% oxygen saturation BP 110/55 heart rate 93 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 98/81 heart rate 79 bpm patient monitoring,medical
+CPU 55% memory 66% HTTP 500 errors 201 server issue detected,it
+SpO2 97% oxygen saturation BP 89/85 heart rate 87 bpm patient monitoring,medical
+motor temperature 79C vibration 11.6mm/s RPM 2430 bearing fault detected,machine
+SpO2 94% oxygen saturation BP 129/73 heart rate 92 bpm patient monitoring,medical
+motor temperature 84C vibration 2.7mm/s RPM 1370 bearing fault detected,machine
+SpO2 89% oxygen saturation BP 86/79 heart rate 128 bpm patient monitoring,medical
+CPU 59% memory 93% HTTP 500 errors 460 server issue detected,it
+CPU 68% memory 73% HTTP 500 errors 629 server issue detected,it
+CPU 68% memory 52% HTTP 500 errors 9 server issue detected,it
+CPU 68% memory 70% HTTP 500 errors 292 server issue detected,it
+CPU 88% memory 93% HTTP 500 errors 720 server issue detected,it
+CPU 81% memory 82% HTTP 500 errors 478 server issue detected,it
+SpO2 78% oxygen saturation BP 83/87 heart rate 130 bpm patient monitoring,medical
+motor temperature 92C vibration 5.1mm/s RPM 1790 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 99/56 heart rate 140 bpm patient monitoring,medical
+CPU 56% memory 77% HTTP 500 errors 137 server issue detected,it
+motor temperature 109C vibration 4.2mm/s RPM 1616 bearing fault detected,machine
+CPU 99% memory 85% HTTP 500 errors 655 server issue detected,it
+motor temperature 77C vibration 3.4mm/s RPM 2049 bearing fault detected,machine
+motor temperature 72C vibration 9.8mm/s RPM 1283 bearing fault detected,machine
+CPU 74% memory 65% HTTP 500 errors 457 server issue detected,it
+SpO2 99% oxygen saturation BP 100/84 heart rate 120 bpm patient monitoring,medical
+motor temperature 75C vibration 11.9mm/s RPM 2611 bearing fault detected,machine
+CPU 72% memory 93% HTTP 500 errors 790 server issue detected,it
+motor temperature 98C vibration 1.0mm/s RPM 2758 bearing fault detected,machine
+CPU 81% memory 95% HTTP 500 errors 576 server issue detected,it
+CPU 91% memory 53% HTTP 500 errors 929 server issue detected,it
+SpO2 83% oxygen saturation BP 137/78 heart rate 96 bpm patient monitoring,medical
+SpO2 81% oxygen saturation BP 99/72 heart rate 137 bpm patient monitoring,medical
+CPU 51% memory 73% HTTP 500 errors 339 server issue detected,it
+hydraulic cylinder response delayed pressure instability,machine
+CPU 63% memory 98% HTTP 500 errors 253 server issue detected,it
+motor temperature 98C vibration 11.9mm/s RPM 1369 bearing fault detected,machine
+CPU 72% memory 53% HTTP 500 errors 51 server issue detected,it
+motor temperature 88C vibration 3.6mm/s RPM 1489 bearing fault detected,machine
+CPU 65% memory 79% HTTP 500 errors 125 server issue detected,it
+CPU 75% memory 95% HTTP 500 errors 736 server issue detected,it
+SpO2 91% oxygen saturation BP 132/56 heart rate 66 bpm patient monitoring,medical
+CPU 100% memory 96% HTTP 500 errors 280 server issue detected,it
+CPU 59% memory 56% HTTP 500 errors 51 server issue detected,it
+motor temperature 98C vibration 6.8mm/s RPM 1227 bearing fault detected,machine
+motor temperature 109C vibration 5.0mm/s RPM 2215 bearing fault detected,machine
+motor temperature 83C vibration 10.1mm/s RPM 1157 bearing fault detected,machine
+SpO2 82% oxygen saturation BP 80/45 heart rate 122 bpm patient monitoring,medical
+SpO2 99% oxygen saturation BP 76/47 heart rate 79 bpm patient monitoring,medical
+CPU 74% memory 59% HTTP 500 errors 841 server issue detected,it
+SpO2 96% oxygen saturation BP 118/61 heart rate 63 bpm patient monitoring,medical
+SpO2 75% oxygen saturation BP 108/58 heart rate 86 bpm patient monitoring,medical
+SpO2 87% oxygen saturation BP 128/49 heart rate 93 bpm patient monitoring,medical
+CPU 71% memory 69% HTTP 500 errors 596 server issue detected,it
+SpO2 94% oxygen saturation BP 98/89 heart rate 126 bpm patient monitoring,medical
+motor temperature 66C vibration 2.6mm/s RPM 1404 bearing fault detected,machine
+CPU 51% memory 88% HTTP 500 errors 485 server issue detected,it
+motor temperature 83C vibration 8.4mm/s RPM 2521 bearing fault detected,machine
+SpO2 78% oxygen saturation BP 137/69 heart rate 61 bpm patient monitoring,medical
+motor temperature 78C vibration 6.0mm/s RPM 2239 bearing fault detected,machine
+CPU 95% memory 94% HTTP 500 errors 653 server issue detected,it
+motor temperature 61C vibration 1.6mm/s RPM 1683 bearing fault detected,machine
+motor temperature 108C vibration 4.7mm/s RPM 1090 bearing fault detected,machine
+motor temperature 90C vibration 5.9mm/s RPM 1620 bearing fault detected,machine
+SpO2 84% oxygen saturation BP 135/82 heart rate 139 bpm patient monitoring,medical
+SpO2 96% oxygen saturation BP 125/62 heart rate 114 bpm patient monitoring,medical
+motor temperature 102C vibration 9.9mm/s RPM 1147 bearing fault detected,machine
+production line halted actuator communication lost,machine
+SpO2 96% oxygen saturation BP 85/86 heart rate 98 bpm patient monitoring,medical
+disk usage 98% write operations failing system crash imminent,it
+motor temperature 84C vibration 4.1mm/s RPM 2482 bearing fault detected,machine
+CPU 79% memory 91% HTTP 500 errors 556 server issue detected,it
+SpO2 96% oxygen saturation BP 82/43 heart rate 111 bpm patient monitoring,medical
+CPU 97% memory 80% HTTP 500 errors 219 server issue detected,it
+SpO2 95% oxygen saturation BP 116/76 heart rate 84 bpm patient monitoring,medical
+SpO2 77% oxygen saturation BP 106/55 heart rate 94 bpm patient monitoring,medical
+SpO2 98% oxygen saturation BP 103/72 heart rate 82 bpm patient monitoring,medical
+motor temperature 109C vibration 7.9mm/s RPM 1950 bearing fault detected,machine
+motor temperature 104C vibration 11.4mm/s RPM 1858 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 101/46 heart rate 98 bpm patient monitoring,medical
+CPU 75% memory 89% HTTP 500 errors 757 server issue detected,it
+SpO2 81% oxygen saturation BP 97/87 heart rate 121 bpm patient monitoring,medical
+CPU 74% memory 70% HTTP 500 errors 979 server issue detected,it
+SpO2 97% oxygen saturation BP 109/65 heart rate 107 bpm patient monitoring,medical
+motor temperature 72C vibration 12.0mm/s RPM 2747 bearing fault detected,machine
+CPU 54% memory 74% HTTP 500 errors 516 server issue detected,it
+CPU 63% memory 71% HTTP 500 errors 621 server issue detected,it
+CPU 85% memory 56% HTTP 500 errors 326 server issue detected,it
+SpO2 96% oxygen saturation BP 106/54 heart rate 71 bpm patient monitoring,medical
+CPU 89% memory 84% HTTP 500 errors 95 server issue detected,it
+SpO2 93% oxygen saturation BP 72/88 heart rate 94 bpm patient monitoring,medical
+CPU 67% memory 78% HTTP 500 errors 253 server issue detected,it
+motor temperature 67C vibration 4.8mm/s RPM 1227 bearing fault detected,machine
+motor temperature 96C vibration 7.6mm/s RPM 2809 bearing fault detected,machine
+dns resolution failed for external dependency,it
+CPU 58% memory 56% HTTP 500 errors 630 server issue detected,it
+CPU 69% memory 60% HTTP 500 errors 415 server issue detected,it
+SpO2 84% oxygen saturation BP 140/40 heart rate 130 bpm patient monitoring,medical
+SpO2 90% oxygen saturation BP 111/51 heart rate 122 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 129/66 heart rate 67 bpm patient monitoring,medical
+motor temperature 83C vibration 7.1mm/s RPM 1210 bearing fault detected,machine
+CPU 89% memory 76% HTTP 500 errors 254 server issue detected,it
+motor temperature 60C vibration 4.9mm/s RPM 2614 bearing fault detected,machine
+CPU 82% memory 91% HTTP 500 errors 172 server issue detected,it
+motor temperature 100C vibration 5.6mm/s RPM 1235 bearing fault detected,machine
+CPU 80% memory 56% HTTP 500 errors 697 server issue detected,it
+CPU 96% memory 94% HTTP 500 errors 644 server issue detected,it
+SpO2 92% oxygen saturation BP 88/67 heart rate 76 bpm patient monitoring,medical
+motor temperature 80C vibration 11.2mm/s RPM 2718 bearing fault detected,machine
+motor temperature 89C vibration 2.0mm/s RPM 1434 bearing fault detected,machine
+SpO2 82% oxygen saturation BP 98/48 heart rate 73 bpm patient monitoring,medical
+CPU 72% memory 59% HTTP 500 errors 282 server issue detected,it
+network timeout while contacting upstream server,it
+motor temperature 88C vibration 10.7mm/s RPM 2905 bearing fault detected,machine
+SpO2 91% oxygen saturation BP 80/51 heart rate 68 bpm patient monitoring,medical
+SpO2 98% oxygen saturation BP 122/71 heart rate 131 bpm patient monitoring,medical
+SpO2 94% oxygen saturation BP 78/64 heart rate 108 bpm patient monitoring,medical
+CPU 64% memory 96% HTTP 500 errors 52 server issue detected,it
+motor temperature 101C vibration 3.1mm/s RPM 2239 bearing fault detected,machine
+motor temperature 69C vibration 8.6mm/s RPM 1971 bearing fault detected,machine
+motor temperature 106C vibration 4.6mm/s RPM 2928 bearing fault detected,machine
+motor temperature 67C vibration 6.0mm/s RPM 2377 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 101/63 heart rate 96 bpm patient monitoring,medical
+motor temperature 96C vibration 4.9mm/s RPM 1605 bearing fault detected,machine
+CPU 68% memory 76% HTTP 500 errors 184 server issue detected,it
+motor temperature 65C vibration 5.1mm/s RPM 1057 bearing fault detected,machine
+motor temperature 78C vibration 9.5mm/s RPM 1471 bearing fault detected,machine
+CPU 87% memory 80% HTTP 500 errors 174 server issue detected,it
+SpO2 93% oxygen saturation BP 95/67 heart rate 74 bpm patient monitoring,medical
+SpO2 87% oxygen saturation BP 80/75 heart rate 97 bpm patient monitoring,medical
+severe chest pain ECG abnormal myocardial infarction suspected,medical
+motor temperature 62C vibration 4.5mm/s RPM 1635 bearing fault detected,machine
+motor temperature 101C vibration 4.9mm/s RPM 1815 bearing fault detected,machine
+SpO2 88% oxygen saturation BP 131/70 heart rate 91 bpm patient monitoring,medical
+SpO2 98% oxygen saturation BP 139/78 heart rate 88 bpm patient monitoring,medical
+CPU 58% memory 82% HTTP 500 errors 479 server issue detected,it
+ssl certificate expired secure connections failing,it
+machine startup successful all parameters normal,machine
+CPU 83% memory 64% HTTP 500 errors 653 server issue detected,it
+motor temperature 81C vibration 9.6mm/s RPM 1156 bearing fault detected,machine
+database connection pool exhausted service unavailable,it
+motor temperature 65C vibration 7.8mm/s RPM 2038 bearing fault detected,machine
+CPU 52% memory 61% HTTP 500 errors 427 server issue detected,it
+SpO2 83% oxygen saturation BP 88/44 heart rate 67 bpm patient monitoring,medical
+motor temperature 105C vibration 8.1mm/s RPM 2620 bearing fault detected,machine
+CPU 100% memory 55% HTTP 500 errors 538 server issue detected,it
+motor temperature 61C vibration 5.6mm/s RPM 1811 bearing fault detected,machine
+CPU 86% memory 54% HTTP 500 errors 128 server issue detected,it
+SpO2 76% oxygen saturation BP 114/74 heart rate 114 bpm patient monitoring,medical
+CPU 62% memory 51% HTTP 500 errors 451 server issue detected,it
+CPU 90% memory 85% HTTP 500 errors 281 server issue detected,it
+motor temperature 87C vibration 7.3mm/s RPM 2453 bearing fault detected,machine
+CPU 85% memory 58% HTTP 500 errors 626 server issue detected,it
+motor temperature 63C vibration 6.0mm/s RPM 2660 bearing fault detected,machine
+SpO2 85% oxygen saturation BP 79/72 heart rate 90 bpm patient monitoring,medical
+motor temperature 64C vibration 10.5mm/s RPM 2179 bearing fault detected,machine
+motor temperature 65C vibration 11.4mm/s RPM 1454 bearing fault detected,machine
+CPU 98% memory 67% HTTP 500 errors 976 server issue detected,it
+CPU 73% memory 85% HTTP 500 errors 295 server issue detected,it
+SpO2 93% oxygen saturation BP 75/88 heart rate 82 bpm patient monitoring,medical
+SpO2 92% oxygen saturation BP 101/50 heart rate 119 bpm patient monitoring,medical
+heart rate irregular atrial fibrillation high risk,medical
+motor temperature 91C vibration 7.7mm/s RPM 1848 bearing fault detected,machine
+SpO2 77% oxygen saturation BP 123/66 heart rate 102 bpm patient monitoring,medical
+SpO2 77% oxygen saturation BP 105/89 heart rate 113 bpm patient monitoring,medical
+SpO2 95% oxygen saturation BP 113/40 heart rate 113 bpm patient monitoring,medical
+motor temperature 75C vibration 10.4mm/s RPM 1203 bearing fault detected,machine
+CPU 68% memory 57% HTTP 500 errors 587 server issue detected,it
+motor temperature 88C vibration 1.8mm/s RPM 1165 bearing fault detected,machine
+motor temperature 108C vibration 8.2mm/s RPM 1362 bearing fault detected,machine
+motor temperature 107C vibration 11.7mm/s RPM 2864 bearing fault detected,machine
+CPU 93% memory 57% HTTP 500 errors 426 server issue detected,it
+temperature 104F severe fever infection suspected,medical
+CPU 61% memory 81% HTTP 500 errors 530 server issue detected,it
+SpO2 85% oxygen saturation BP 121/84 heart rate 97 bpm patient monitoring,medical
+CPU 66% memory 99% HTTP 500 errors 266 server issue detected,it
+CPU 85% memory 80% HTTP 500 errors 775 server issue detected,it
+SpO2 77% oxygen saturation BP 124/57 heart rate 65 bpm patient monitoring,medical
+motor temperature 74C vibration 8.1mm/s RPM 2301 bearing fault detected,machine
+SpO2 89% oxygen saturation BP 110/88 heart rate 69 bpm patient monitoring,medical
+motor temperature 77C vibration 5.9mm/s RPM 1868 bearing fault detected,machine
+motor temperature 74C vibration 6.1mm/s RPM 1520 bearing fault detected,machine
+SpO2 78% oxygen saturation BP 94/60 heart rate 75 bpm patient monitoring,medical
+motor temperature 73C vibration 9.4mm/s RPM 2565 bearing fault detected,machine
+SpO2 83% oxygen saturation BP 74/46 heart rate 136 bpm patient monitoring,medical
+motor temperature 65C vibration 4.6mm/s RPM 1605 bearing fault detected,machine
+SpO2 97% oxygen saturation BP 79/78 heart rate 81 bpm patient monitoring,medical
+CPU 58% memory 90% HTTP 500 errors 310 server issue detected,it
+SpO2 80% oxygen saturation BP 122/71 heart rate 121 bpm patient monitoring,medical
+SpO2 76% oxygen saturation BP 109/63 heart rate 65 bpm patient monitoring,medical
+SpO2 88% oxygen saturation BP 81/54 heart rate 74 bpm patient monitoring,medical
+CPU 94% memory 65% HTTP 500 errors 63 server issue detected,it
+motor temperature 106C vibration 1.6mm/s RPM 1589 bearing fault detected,machine
+SpO2 92% oxygen saturation BP 124/75 heart rate 61 bpm patient monitoring,medical
