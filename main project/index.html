@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LogSense AI</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Background -->
+    <div class="bg-grid"></div>
+
+    <div class="glow glow1"></div>
+    <div class="glow glow2"></div>
+
+    <div class="spotlight"></div>
+
+    <div id="particles"></div>
+
+    <!-- Header -->
+    <header>
+
+        <div class="hero">
+
+            <div class="logo-badge">
+                ⚡
+            </div>
+
+            <h1>
+                LogSense AI
+            </h1>
+
+            <p>
+                Offline Multi-Domain Diagnostic Engine
+            </p>
+
+            <div class="domain-tags">
+
+                <span>Medical</span>
+                <span>Machine</span>
+                <span>Server</span>
+
+            </div>
+
+        </div>
+
+    </header>
+
+    <!-- Input Section -->
+
+    <section class="input-card">
+
+        <div class="card-header">
+
+            <h2>Paste Diagnostic Log</h2>
+
+            <p>
+                Paste raw medical, machine or server logs for analysis.
+            </p>
+
+        </div>
+
+        <textarea id="logInput" placeholder="Paste your log here...
+
+Example:
+Patient admitted with SpO2 84%, BP 88/52 and elevated glucose levels..."></textarea>
+
+        <div class="action-row">
+
+            <button id="analyzeBtn">
+                <span>Analyze Intelligence</span>
+            </button>
+
+        </div>
+
+    </section>
+
+    <!-- Processing -->
+
+    <section id="processing" class="processing hidden">
+
+        <div class="section-title">
+
+            <h2>
+                Analysis Pipeline
+            </h2>
+
+            <p>
+                AI Engine Processing Data
+            </p>
+
+        </div>
+
+        <div class="steps">
+
+            <div class="step">
+
+                <div class="num">
+                    01
+                </div>
+
+                <h3>
+                    Reading Logs
+                </h3>
+
+                <p>
+                    Extracting content
+                </p>
+
+                <div class="scanner"></div>
+
+            </div>
+
+            <div class="step">
+
+                <div class="num">
+                    02
+                </div>
+
+                <h3>
+                    Domain Detection
+                </h3>
+
+                <p>
+                    Finding category
+                </p>
+
+                <div class="scanner"></div>
+
+            </div>
+
+            <div class="step">
+
+                <div class="num">
+                    03
+                </div>
+
+                <h3>
+                    Pattern Matching
+                </h3>
+
+                <p>
+                    Comparing records
+                </p>
+
+                <div class="scanner"></div>
+
+            </div>
+
+            <div class="step">
+
+                <div class="num">
+                    04
+                </div>
+
+                <h3>
+                    Severity Scoring
+                </h3>
+
+                <p>
+                    Calculating risk
+                </p>
+
+                <div class="scanner"></div>
+
+            </div>
+
+            <div class="step">
+
+                <div class="num">
+                    05
+                </div>
+
+                <h3>
+                    Building Report
+                </h3>
+
+                <p>
+                    Preparing output
+                </p>
+
+                <div class="scanner"></div>
+
+            </div>
+
+        </div>
+
+        <div class="progress-wrap">
+            <div id="progressBar"></div>
+        </div>
+
+        <div class="console">
+
+            <div class="console-header">
+                AI TERMINAL
+            </div>
+
+            <div id="consoleText"></div>
+
+        </div>
+
+    </section>
+
+    <!-- Result -->
+
+    <section id="result" class="result hidden">
+
+        <div class="result-header">
+
+            <div>
+
+                <h2>
+                    Medical Log Detected
+                </h2>
+
+                <p>
+                    Analysis completed successfully
+                </p>
+
+            </div>
+
+            <div class="ring">
+
+                <svg width="120" height="120">
+
+                    <circle cx="60" cy="60" r="50" class="bg-circle">
+                    </circle>
+
+                    <circle cx="60" cy="60" r="50" class="progress-circle">
+                    </circle>
+
+                </svg>
+
+                <div class="ring-text">
+                    96%
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Status -->
+
+        <div class="severity">
+
+            <span>
+                CRITICAL
+            </span>
+
+        </div>
+
+        <!-- Stats -->
+
+        <div class="stats">
+
+            <div class="stat-box">
+
+                <h4 id="patterns">
+                    0
+                </h4>
+
+                <p>
+                    Patterns
+                </p>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h4 id="entities">
+                    0
+                </h4>
+
+                <p>
+                    Entities
+                </p>
+
+            </div>
+
+            <div class="stat-box">
+
+                <h4 id="records">
+                    0
+                </h4>
+
+                <p>
+                    Records
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- Result Cards -->
+
+        <div class="cards">
+
+            <div class="card">
+
+                <h3>
+                    Root Cause
+                </h3>
+
+                <p>
+                    Patient showing signs of severe hypoxia
+                    with possible septic shock indicators.
+                </p>
+
+            </div>
+
+            <div class="card">
+
+                <h3>
+                    Pattern Match
+                </h3>
+
+                <p>
+                    Emergency Sepsis Response Protocol
+                    matched with high confidence.
+                </p>
+
+            </div>
+
+            <div class="card">
+
+                <h3>
+                    Confidence
+                </h3>
+
+                <p>
+                    96% certainty based on extracted
+                    entities and matching records.
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- Metrics -->
+
+        <div class="metrics">
+
+            <div class="metric danger">
+
+                <span>SpO₂</span>
+
+                <strong>84%</strong>
+
+            </div>
+
+            <div class="metric warning">
+
+                <span>BP</span>
+
+                <strong>88 / 52</strong>
+
+            </div>
+
+            <div class="metric danger">
+
+                <span>Heart Rate</span>
+
+                <strong>118 BPM</strong>
+
+            </div>
+
+            <div class="metric warning">
+
+                <span>Glucose</span>
+
+                <strong>310</strong>
+
+            </div>
+
+        </div>
+
+        <!-- Timeline -->
+
+        <h2 class="timeline-title">
+            Recommended Action Flow
+        </h2>
+
+        <div class="timeline">
+
+            <div class="timeline-item">
+                Increase Oxygen Supply
+            </div>
+
+            <div class="timeline-item">
+                Collect Blood Culture
+            </div>
+
+            <div class="timeline-item">
+                Start IV Fluids
+            </div>
+
+            <div class="timeline-item">
+                Administer Antibiotics
+            </div>
+
+        </div>
+
+        <!-- Footer Dashboard -->
+
+        <div class="engine-panel">
+
+            <div class="engine-card">
+
+                <h4>
+                    Engine Status
+                </h4>
+
+                <p>
+                    🟢 Active
+                </p>
+
+            </div>
+
+            <div class="engine-card">
+
+                <h4>
+                    Database
+                </h4>
+
+                <p>
+                    2431 Patterns Loaded
+                </p>
+
+            </div>
+
+            <div class="engine-card">
+
+                <h4>
+                    Model
+                </h4>
+
+                <p>
+                    TF-IDF Analyzer
+                </p>
+
+            </div>
+
+            <div class="engine-card">
+
+                <h4>
+                    Confidence
+                </h4>
+
+                <p>
+                    96%
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
