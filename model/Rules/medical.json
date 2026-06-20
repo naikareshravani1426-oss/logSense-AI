@@ -1,0 +1,92 @@
+[
+  {
+    "id": "M01",
+    "name": "Septic Shock",
+    "triggers": ["SpO2", "oxygen", "low BP", "blood pressure", "heart rate"],
+    "diagnosis": "Hypoxic respiratory failure with septic shock",
+    "cause": "SpO2 below 90% with low BP, oxygen deprivation and sepsis",
+    "fix_steps": ["Switch to non-rebreather mask at 15 L/min", "Draw blood cultures before starting antibiotics", "Start IV fluid bolus 30ml/kg", "Escalate to senior doctor immediately"],
+    "severity": "critical"
+  },
+  {
+    "id": "M02",
+    "name": "Hypertension",
+    "triggers": ["systolic", "high BP", "diastolic", "hypertensive"],
+    "diagnosis": "Acute hypertensive crisis",
+    "cause": "Blood pressure elevated above 180/120 mmHg",
+    "fix_steps": ["Place patient in quiet room for rest", "Administer prescribed antihypertensive medication", "Recheck blood pressure every 15 minutes", "Notify physician if BP remains high"],
+    "severity": "warning"
+  },
+  {
+    "id": "M03",
+    "name": "Hypoglycemia",
+    "triggers": ["low glucose", "blood sugar", "sweating", "shaking", "hypo"],
+    "diagnosis": "Symptomatic hypoglycemia",
+    "cause": "Blood glucose level below 70 mg/dL",
+    "fix_steps": ["Administer 15 grams of fast-acting glucose", "Recheck blood sugar in 15 minutes", "Provide a small snack with complex carbs", "Monitor patient for altered consciousness"],
+    "severity": "critical"
+  },
+  {
+    "id": "M04",
+    "name": "Fever",
+    "triggers": ["high temperature", "fever", "chills", "pyrexia"],
+    "diagnosis": "Hyperthermia secondary to infection",
+    "cause": "Core body temperature exceeding 38.5 degrees Celsius",
+    "fix_steps": ["Administer antipyretic medication as ordered", "Apply cool compresses to forehead and groin", "Encourage oral hydration and fluid intake", "Monitor temperature hourly"],
+    "severity": "warning"
+  },
+  {
+    "id": "M05",
+    "name": "Cardiac crisis",
+    "triggers": ["chest pain", "angina", "troponin", "ECG elevation", "cardiac arrest"],
+    "diagnosis": "Acute coronary syndrome or myocardial infarction",
+    "cause": "Myocardial ischemia or coronary artery occlusion",
+    "fix_steps": ["Administer supplemental oxygen and aspirin", "Obtain 12-lead ECG immediately", "Establish IV access and prepare defibrillator", "Activate rapid response or cardiac team"],
+    "severity": "critical"
+  },
+  {
+    "id": "M06",
+    "name": "Respiratory failure",
+    "triggers": ["hypoxia", "dyspnea", "cyanosis", "tachypnea"],
+    "diagnosis": "Acute respiratory distress and failure",
+    "cause": "Inadequate gas exchange and severe oxygen desaturation",
+    "fix_steps": ["Initiate high-flow nasal cannula or bipap", "Perform arterial blood gas analysis", "Prepare for potential endotracheal intubation", "Assess lung sounds and chest expansion"],
+    "severity": "critical"
+  },
+  {
+    "id": "M07",
+    "name": "Stroke",
+    "triggers": ["facial droop", "slurred speech", "numbness", "weakness", "stroke"],
+    "diagnosis": "Acute ischemic or hemorrhagic stroke",
+    "cause": "Cerebral vascular compromise and neurological deficit",
+    "fix_steps": ["Assess using NIH stroke scale", "Check last known well time", "Arrange emergency head CT scan", "Maintain patent airway and monitor neurological status"],
+    "severity": "critical"
+  },
+  {
+    "id": "M08",
+    "name": "Arrhythmia",
+    "triggers": ["tachycardia", "bradycardia", "irregular pulse", "palpitations"],
+    "diagnosis": "Cardiac dysrhythmia",
+    "cause": "Abnormal cardiac electrical conduction",
+    "fix_steps": ["Perform continuous telemetry monitoring", "Obtain 12-lead ECG for rhythm analysis", "Assess patient's perfusion status and blood pressure", "Prepare vagal maneuvers or pharmacological intervention"],
+    "severity": "warning"
+  },
+  {
+    "id": "M09",
+    "name": "Diabetic crisis",
+    "triggers": ["hyperglycemia", "ketones", "DKA", "acidosis", "high glucose"],
+    "diagnosis": "Diabetic ketoacidosis or hyperosmolar hyperglycemic state",
+    "cause": "Severe insulin deficiency and metabolic acidosis",
+    "fix_steps": ["Initiate continuous intravenous insulin infusion", "Administer aggressive IV saline rehydration", "Check blood glucose and electrolytes hourly", "Monitor for signs of cerebral edema"],
+    "severity": "critical"
+  },
+  {
+    "id": "M10",
+    "name": "Normal Vitals",
+    "triggers": ["bp 120/80", "spo2 98%", "heart rate 72", "temp 98.6"],
+    "diagnosis": "Patient parameters are within normal physiological ranges.",
+    "cause": "Hemodynamic and physiological homeostasis.",
+    "fix_steps": ["Continue standard routine nursing care", "Monitor vitals on next scheduled shift", "Document status in patient record"],
+    "severity": "warning"
+  }
+]

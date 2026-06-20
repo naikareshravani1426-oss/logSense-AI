@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MAC01",
+    "name": "Motor Overheating",
+    "triggers": ["stator temp > 120C", "winding temperature", "motor thermal trip", "current overload"],
+    "diagnosis": "Critical thermal overload of the drive motor stator windings",
+    "cause": "Excessive mechanical load, blocked cooling vents, or high ambient temperatures",
+    "fix_steps": ["Shut down the motor drive system immediately", "Verify cooling fan operation and clean ventilation ducts", "Measure motor winding resistance to check for insulation breakdown", "Inspect mechanical load for binding or locking before restarting"],
+    "severity": "critical"
+  },
+  {
+    "id": "MAC02",
+    "name": "Bearing Failure",
+    "triggers": ["high vibration frequency", "bearing noise", "bearing temp > 90C", "high velocity peak"],
+    "diagnosis": "Mechanical degradation or failure of rotational shaft bearings",
+    "cause": "Inadequate lubrication, contamination, misalignment, or fatigue wear",
+    "fix_steps": ["De-energize machine and lock out tag out the power source", "Perform vibration spectrum analysis to verify bearing defects", "Check lubrication levels and inspect bearing seals for damage", "Replace worn bearings and realign the shaft if necessary"],
+    "severity": "critical"
+  },
+  {
+    "id": "MAC03",
+    "name": "Valve Blockage",
+    "triggers": ["flow rate drop", "pressure differential high", "valve position discrepancy", "clogged actuator"],
+    "diagnosis": "Flow restriction or complete obstruction within the control valve body",
+    "cause": "Accumulation of particulate matter, foreign objects, or scale deposits",
+    "fix_steps": ["Isolate flow line and depressurize the valve body", "Disassemble the valve assembly to check for debris", "Clean internal orifices and inspect seats for wear", "Reassemble valve, test actuator responsiveness, and restore flow"],
+    "severity": "warning"
+  },
+  {
+    "id": "MAC04",
+    "name": "Excessive Vibration",
+    "triggers": ["vibration > 10mm/s", "structural resonance", "unbalanced rotor", "loose mounts"],
+    "diagnosis": "High amplitude mechanical vibration exceeding safety thresholds",
+    "cause": "Rotor unbalance, shaft misalignment, or loose structural mounting bolts",
+    "fix_steps": ["Reduce operational speed or pause machine cycle", "Inspect and tighten structural mounting and casing bolts", "Perform dynamic balance test of the rotating assembly", "Check shaft alignment using dial indicators or laser tools"],
+    "severity": "warning"
+  },
+  {
+    "id": "MAC05",
+    "name": "Coolant Leak",
+    "triggers": ["coolant reservoir low", "coolant temperature rise", "leak detected", "differential pressure drop"],
+    "diagnosis": "Loss of coolant integrity in the closed-loop thermal management system",
+    "cause": "Ruptured hose, damaged radiator core, or degraded pump seals",
+    "fix_steps": ["Locate the leak source using visual inspection or UV dye", "Depressurize and drain coolant to below the leak level", "Replace damaged cooling hoses, fittings, or seals", "Refill coolant reservoir and purge air bubbles from the loop"],
+    "severity": "warning"
+  },
+  {
+    "id": "MAC06",
+    "name": "Pump Cavitation / Starvation",
+    "triggers": ["suction pressure drop", "impeller noise", "discharge pressure fluctuation", "cavitation signature"],
+    "diagnosis": "Vapor bubble formation and collapse due to low inlet suction pressure",
+    "cause": "Restricted suction strainer, high fluid temperature, or low reservoir levels",
+    "fix_steps": ["Check suction line valves and strainers for blockages", "Verify suction side supply tank levels and temperatures", "Purge any trapped air or gas from the pump casing", "Slow flow rate temporarily to restore suction pressure"],
+    "severity": "critical"
+  },
+  {
+    "id": "MAC07",
+    "name": "Conveyor Belt Jam",
+    "triggers": ["conveyor speed 0 RPM", "belt slippage", "motor torque spike", "jam sensor active"],
+    "diagnosis": "Mechanical jam or overload causing conveyor stoppage",
+    "cause": "Misaligned materials, trapped debris, or conveyor belt misalignment",
+    "fix_steps": ["Activate emergency stop and lock out power sources", "Locate and remove the jammed material or debris from the line", "Verify belt tension and align tracking guides", "Clear warning zone and restart system under low load"],
+    "severity": "critical"
+  },
+  {
+    "id": "MAC08",
+    "name": "Hydraulic Pressure Loss",
+    "triggers": ["hydraulic pressure low", "accumulator pressure drop", "pump discharge zero", "fluid level low"],
+    "diagnosis": "Loss of operating pressure in the primary hydraulic circuit",
+    "cause": "Hydraulic line rupture, faulty pressure relief valve, or pump failure",
+    "fix_steps": ["Immediately shut down hydraulic power unit (HPU)", "Inspect main hoses and connections for oil leaks", "Check accumulator charge and verify relief valve calibration", "Refill fluid reservoir to operational level using specified hydraulic oil"],
+    "severity": "critical"
+  },
+  {
+    "id": "MAC09",
+    "name": "Exhaust Temperature High",
+    "triggers": ["exhaust gas temp > 600C", "EGT limit exceeded", "combustion imbalance", "thermal load high"],
+    "diagnosis": "Exhaust gas temperature exceeding safe thermal limits",
+    "cause": "Incomplete fuel combustion, overloaded cylinder, or restricted exhaust flow",
+    "fix_steps": ["Reduce mechanical load on the engine or turbine unit", "Inspect fuel injectors and adjust fuel-to-air ratio", "Check turbocharger or supercharger output pressure", "Measure exhaust back pressure to check for downstream blockages"],
+    "severity": "warning"
+  },
+  {
+    "id": "MAC10",
+    "name": "Agricultural Milking Machine Vacuum Pump Failure",
+    "triggers": ["vacuum pressure low", "milking claw drop", "pulsator malfunction", "vacuum pump temp high"],
+    "diagnosis": "Insufficient vacuum pressure in agricultural milking system",
+    "cause": "Worn vacuum pump vanes, degraded regulator diaphragm, or piping line leak",
+    "fix_steps": ["Isolate the milking parlor to check vacuum regulator", "Inspect milking claws and pipeline joints for air leaks", "Clean vacuum pump inlet filter and check lubricating oil level", "Replace worn pump vanes or rebuild the vacuum regulator valve"],
+    "severity": "critical"
+  }
+]

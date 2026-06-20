@@ -1,0 +1,92 @@
+[
+  {
+    "id": "IT01",
+    "name": "Memory Leak / OOM",
+    "triggers": ["Out of Memory", "killed process", "OOM-killer", "heap space exhausted"],
+    "diagnosis": "System memory exhaustion causing process termination by the OOM-killer",
+    "cause": "Application level memory leak, unoptimized garbage collection, or underprovisioned RAM",
+    "fix_steps": ["Inspect system syslog or dmesg to identify the terminated PID", "Restart the failed service daemon or container", "Analyze heap dump files to locate application memory leaks", "Increase system swap space or allocate more RAM to the VM"],
+    "severity": "critical"
+  },
+  {
+    "id": "IT02",
+    "name": "CPU Overload",
+    "triggers": ["load average high", "CPU usage 100%", "throttling detected", "steal time high"],
+    "diagnosis": "High CPU utilization causing application latency and service degradation",
+    "cause": "Infinite loop in code, sudden spike in incoming traffic, or resource starvation",
+    "fix_steps": ["Run top/htop to identify the process consuming the most CPU cycles", "Profile the active thread stack of the offending process", "Scale up CPU cores or scale out nodes behind the load balancer", "Set CPU limits and resource quotas on the service container"],
+    "severity": "warning"
+  },
+  {
+    "id": "IT03",
+    "name": "Database Connection Timeout",
+    "triggers": ["connection timeout", "driver connection pool", "PostgreSQL database down", "cannot connect to host"],
+    "diagnosis": "Application database connection pool depletion or database server unavailability",
+    "cause": "Network disconnection, database server crash, or database connection pool leak",
+    "fix_steps": ["Ping database host to verify network layer connectivity", "Check database server active processes and status of service logs", "Scale up database maximum connection settings or pool limit", "Review and fix unclosed connections in application code database repository"],
+    "severity": "critical"
+  },
+  {
+    "id": "IT04",
+    "name": "Disk Space Full",
+    "triggers": ["no space left on device", "disk space 100%", "write failure", "inode exhaustion"],
+    "diagnosis": "Storage capacity exhaustion preventing file write operations",
+    "cause": "Log rotation failure, runaway application debug logs, or excessive temporary files",
+    "fix_steps": ["Run df -h and du -sh to find the directory consuming the most storage", "Purge expired log files or rotate large active logs", "Increase the size of the underlying block storage volume", "Clean up orphaned docker volumes, build caches, and temp directories"],
+    "severity": "critical"
+  },
+  {
+    "id": "IT05",
+    "name": "Network Disconnect / Packet Loss",
+    "triggers": ["packet loss", "network unreachable", "ping timeout", "interface down"],
+    "diagnosis": "High network packet drop rates or complete interface disconnection",
+    "cause": "Faulty network cabling, hardware failure, routing loop, or firewall blockage",
+    "fix_steps": ["Run traceroute/mtr to locate the hop where packet loss occurs", "Verify physical link status and port configuration on the switch", "Check routing tables and local firewall rules for blocking patterns", "Contact ISP or network provider to report WAN link instability"],
+    "severity": "critical"
+  },
+  {
+    "id": "IT06",
+    "name": "DDoS Attack Detected",
+    "triggers": ["request rate limit exceeded", "syn flood", "abnormal ingress traffic", "too many open connections"],
+    "diagnosis": "Distributed Denial of Service attack overwhelming server ingress bandwidth",
+    "cause": "Malicious high-volume traffic targeted at public-facing endpoints",
+    "fix_steps": ["Enable rate-limiting and access restriction filters at the web application firewall (WAF)", "Blackhole or drop traffic from offending source IP subnets", "Redirect traffic through a CDN or cloud-based DDoS mitigation scrub provider", "Verify and scale backend capacity to absorb excess load if legitimate"],
+    "severity": "critical"
+  },
+  {
+    "id": "IT07",
+    "name": "SSL Certificate Expired",
+    "triggers": ["SSL handshake failed", "certificate expired", "SEC_ERROR_EXPIRED_CERTIFICATE", "untrusted certificate authority"],
+    "diagnosis": "Invalid SSL/TLS security certificate preventing secure connection establishment",
+    "cause": "Failure of auto-renewal mechanism, incorrect DNS configuration, or expiration of CA root",
+    "fix_steps": ["Check domain registrar DNS settings and verification records", "Manually trigger certificate renewal using certbot or ACME client", "Reload the web server configuration to apply newly generated certificate", "Configure automated cron jobs for future certificate renewal checks"],
+    "severity": "critical"
+  },
+  {
+    "id": "IT08",
+    "name": "Unauthorized SSH Access Attempt",
+    "triggers": ["failed password for root", "invalid user sshd", "authentication failure", "connection closed by authenticating user"],
+    "diagnosis": "Brute-force SSH authentication attempts detected on secure port",
+    "cause": "Server exposed to public internet with default SSH configuration",
+    "fix_steps": ["Disable root SSH login in sshd_config and change port from 22", "Install and configure fail2ban to dynamically block repeating IPs", "Audit authorized_keys file for unknown public key entries", "Enforce SSH key authentication only and restrict allowed IP ranges via firewall"],
+    "severity": "warning"
+  },
+  {
+    "id": "IT09",
+    "name": "DNS Resolution Failure",
+    "triggers": ["could not resolve host", "temporary failure in name resolution", "NXDOMAIN", "DNS timeout"],
+    "diagnosis": "Inability to resolve domain names to IP addresses",
+    "cause": "Misconfigured resolv.conf, upstream DNS server outage, or incorrect DNS registration",
+    "fix_steps": ["Test queries using nslookup or dig against reliable resolvers like 8.8.8.8", "Check internal resolver service configuration and reload daemon", "Verify nameservers listed in /etc/resolv.conf are reachable", "Verify domain registry DNS records are published and propagated correctly"],
+    "severity": "warning"
+  },
+  {
+    "id": "IT10",
+    "name": "Normal System Operations",
+    "triggers": ["system healthy", "uptime check OK", "CPU load normal", "services running"],
+    "diagnosis": "Infrastructure parameters and services are operating normally within parameters",
+    "cause": "System operating at optimal capacity with no detected failures",
+    "fix_steps": ["Continue monitoring status dashboards for metric trends", "Verify automated backups ran successfully in the background", "Perform routine non-intrusive software package updates if scheduled"],
+    "severity": "warning"
+  }
+]
